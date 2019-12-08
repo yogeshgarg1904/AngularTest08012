@@ -1,0 +1,2636 @@
+﻿{
+	"menu_en": {
+		"lblLogo": {
+			"desc": "Yachin System"
+		},
+		"lblswitchLang": {
+			"desc": "Switch Language"
+		},
+		"DashBoard": {
+			"desc": "DashBoard"
+		},
+		"Masters": {
+			"desc": "Masters"
+		},
+		"Reports": {
+			"desc": "Reports"
+		},
+		"Setting": {
+			"desc": "Setting"
+		},
+		"Search": {
+			"desc": "Search"
+		},
+		"RuleEngine": {
+			"desc": "Rule Engine"
+		},
+		"Rule": {
+			"desc": "Rule Master"
+		},
+		"Expression": {
+			"desc": "Rule Configuration"
+		},
+		"ExpressionCondition": {
+			"desc": "Condition Master"
+		},
+		"RuleSimulation": {
+			"desc": "Rule Simulation"
+		},
+		"User": {
+			"desc": "User"
+		},
+		"Admin": {
+			"desc": "Admin"
+		},
+		"myRole": {
+			"desc": "My Role"
+		},
+		"Capture": {
+			"desc": "Application Capture"
+		},
+		"FaxCapture": {
+			"desc": "Shopping Form"
+		},
+		"FormValidation": {
+			"desc": "Form Validation"
+		},
+		"OnlineInterfaces": {
+			"desc": "Online Interfaces"
+		},
+		"XSDValidation": {
+			"desc": "Layout Validation"
+		},
+		"InterfaceConfiguration": {
+			"desc": "Configuration"
+		},
+		"HandoffConfiguration": {
+			"desc": "Handoff Configuration"
+		},
+		"LetterConfiguration": {
+			"desc": "Letter Configuration"
+		},
+		"YachinForm": {
+			"desc": "Yachin Form"
+		},
+		"NewLineofBusiness": {
+			"desc": "New Line of Business"
+		},
+		"DesignNewForm": {
+			"desc": "Design New Form"
+		},
+		"myConfiguredForm": {
+			"desc": "Form Designer"
+		}
+	},
+	"menu_jp": {
+		"lblLogo": {
+			"desc": "家賃 システム"
+		},
+		"lblswitchLang": {
+			"desc": "言語設定"
+		},
+		"DashBoard": {
+			"desc": "ダッシュボード"
+		},
+		"Masters": {
+			"desc": "マスタ管理"
+		},
+		"Reports": {
+			"desc": "レポート"
+		},
+		"Setting": {
+			"desc": "セッティング"
+		},
+		"Search": {
+			"desc": "検索"
+		},
+		"RuleEngine": {
+			"desc": "ルールエンジン"
+		},
+		"Expression": {
+			"desc": "式マスター"
+		},
+		"Rule": {
+			"desc": "ルールマスター"
+		},
+		"ExpressionCondition": {
+			"desc": "条件マスター"
+		},
+		"RuleSimulation": {
+			"desc": "ルールシミュレーション"
+		},
+		"User": {
+			"desc": "ユーザー"
+		},
+		"Admin": {
+			"desc": "管理者"
+		},
+		"myRole": {
+			"desc": "自分の役割"
+		},
+		"Capture": {
+			"desc": "キャプチャー"
+		},
+		"FaxCapture": {
+			"desc": "ファックスキャプチャ"
+		},
+		"FormValidation": {
+			"desc": "フォーム検証"
+		},
+		"OnlineInterfaces": {
+			"desc": "オンラインインタフェース"
+		},
+		"XSDValidation": {
+			"desc": "レイアウト 検証"
+		},
+		"InterfaceConfiguration": {
+			"desc": "インターフェイス設定"
+		},
+		"HandoffConfiguration": {
+			"desc": "ハンドオフ構成"
+		},
+		"LetterConfiguration": {
+			"desc": "レター設定"
+		},
+		"YachinForm": {
+			"desc": "家賃フォーム"
+		},
+		"NewLineofBusiness": {
+			"desc": "新業務ライン"
+		},
+		"DesignNewForm": {
+			"desc": "デザイン新フォーム"
+		},
+		"myConfiguredForm": {
+			"desc": "カスタム化フォーム"
+		}
+	},
+	"category_en": {
+		"lblSystemName": {
+			"desc": "System Name"
+		}
+	},
+	"category_jp": {
+		"lblSystemName": {
+			"desc": "のリクエスト"
+		}
+	},
+	"faxloaninfo_en": {
+		"lblloan": {
+			"desc": "Loan Information"
+		},
+		"lblvehicleprice": {
+			"desc": "①Vehicle price"
+		},
+		"lbldiscountamount": {
+			"desc": "②Discount amount"
+		},
+		"lblacessory1": {
+			"desc": "③Accessory1"
+		},
+		"lblacessory2": {
+			"desc": "③Accessory2"
+		},
+		"lblCashPrice": {
+			"desc": "④Cash price （①－②＋③)"
+		},
+		"lblsundaryexpenses": {
+			"desc": "⑤Sundry expenses"
+		},
+		"lbltotalcashprice": {
+			"desc": "⑥Total cash price（④＋⑤）"
+		},
+
+		"lblapplicationamount": {
+			"desc": "⑦Application amount (down payment)"
+		},
+		"lbltradeincarprice": {
+			"desc": "⑧Trade-in car price"
+		},
+		"lbltotal": {
+			"desc": "⑨Total （⑦+⑧）"
+		},
+		"lblbalance": {
+			"desc": "⑩Balance （⑥－⑨)"
+		},
+		"lblinstallcharge": {
+			"desc": "⑪Installment charge"
+		},
+		"lblnoofinst": {
+			"desc": "Number of Installments:"
+		},
+		"lblinitialisnstall": {
+			"desc": "1 st Installments:"
+		},
+
+		"lblsecondinstall": {
+			"desc": "2nd Installment"
+		},
+		"lblsecondtime": {
+			"desc": "2nd Installment X Times"
+		},
+		"lblirregflg": {
+			"desc": "Irregular Payment Flag"
+		},
+		"lblhalfyearlyflg": {
+			"desc": "Half Yearly flag"
+		},
+		"lblsuperflg": {
+			"desc": "Super Yearly flag"
+		},
+		"lblpaymethod": {
+			"desc": "Payment Method"
+		},
+		"lbldd": {
+			"desc": "DirectDebit"
+		},
+		"lbltr": {
+			"desc": "Transfer"
+		},
+		"lblbonuspay": {
+			"desc": "Bonus Payment"
+		},
+		"lblonetime": {
+			"desc": "One Times"
+		},
+		"lbltwotime": {
+			"desc": "Two Times"
+		},
+		"lblintibonus": {
+			"desc": "Intial Bonus Months"
+		},
+		"lbladdamount": {
+			"desc": "Additional Amount for Bonus Months"
+		},
+		"lbladdbonustime": {
+			"desc": "Additional Bonus Months times"
+		},
+		"lblrepay1": {
+			"desc": "Repayment Period 1(YYMM)"
+		},
+		"lblrepayamt1": {
+			"desc": "Repayment Amount 1"
+		},
+		"lblrepay2": {
+			"desc": "Repayment Period 2(YYMM)"
+		},
+		"lblreapyamt2": {
+			"desc": "Repayment 2 Amount"
+		},
+		"lblbonusinfo": {
+			"desc": "Bonus Information"
+		},
+		"lblpayinfo": {
+			"desc": "Payment Information"
+		},
+		"lblinitialisnstallmonth": {
+			"desc": "Initial Installment Month"
+		}
+
+	},
+
+	"faxloaninfo_jp": {
+		"lblloan": {
+			"desc": "ローン情報"
+		},
+		"lblvehicleprice": {
+			"desc": "①車両本体価格"
+		},
+		"lbldiscountamount": {
+			"desc": "②値引額"
+		},
+		"lblacessory1": {
+			"desc": "③付属品"
+		},
+		"lblacessory2": {
+			"desc": "③付属品2"
+		},
+		"lblCashPrice": {
+			"desc": "④現金価格（①－②＋③）"
+		},
+		"lblsundaryexpenses": {
+			"desc": "⑤諸費用"
+		},
+		"lbltotalcashprice": {
+			"desc": "⑥現金価格合計（④＋⑤）"
+		},
+		"lblapplicationamount": {
+			"desc": "⑦申込金（頭金）"
+		},
+		"lbltradeincarprice": {
+			"desc": "⑧下取車価格"
+		},
+		"lbltotal": {
+			"desc": "⑬お支払総額（⑨＋⑫）"
+		},
+		"lblbalance": {
+			"desc": "⑩残金（⑥－⑨)"
+		},
+		"lblinstallcharge": {
+			"desc": "⑪分割払手数料"
+		},
+		"lblnoofinst": {
+			"desc": "お支払い回数"
+		},
+		"lblinitialisnstall": {
+			"desc": "第１回目"
+		},
+		"lblsecondinstall": {
+			"desc": "第２回目以降"
+		},
+		"lblsecondtime": {
+			"desc": "第２回目以降 X 回"
+		},
+		"lblirregflg": {
+			"desc": "変則払いフラグ"
+		},
+		"lblhalfyearlyflg": {
+			"desc": "年賦・半年賦フラグ"
+		},
+		"lblsuperflg": {
+			"desc": "超変則フラグ"
+		},
+		"lblpaymethod": {
+			"desc": "支払方法"
+		},
+		"lbldd": {
+			"desc": "口座振替"
+		},
+		"lbltr": {
+			"desc": "振込"
+		},
+		"lblbonuspay": {
+			"desc": "ボーナス支払分"
+		},
+		"lblonetime": {
+			"desc": "一活払い"
+		},
+		"lbltwotime": {
+			"desc": "２回払い"
+		},
+		"lblintibonus": {
+			"desc": "ボーナス支払月"
+		},
+		"lbladdamount": {
+			"desc": "ボーナス月における加算額"
+		},
+		"lbladdbonustime": {
+			"desc": "ボーナス月における加算額 回"
+		},
+		"lblrepay1": {
+			"desc": "お支払期間1（年月)"
+		},
+		"lblrepayamt1": {
+			"desc": "ボーナス加算額 1"
+		},
+		"lblrepay2": {
+			"desc": "お支払期間2（年月"
+		},
+		"lblreapyamt2": {
+			"desc": "ボーナス加算額 2 "
+		},
+		"lblbonusinfo": {
+			"desc": "ボーナス情報"
+		},
+		"lblpayinfo": {
+			"desc": "支払情報"
+		},
+		"lblinitialisnstallmonth": {
+			"desc": "初回割賦月"
+		}
+
+	},
+
+	"faxproductinfo_en": {
+		"lblproductinfo": {
+			"desc": "Product Information"
+		},
+		"vehName": {
+			"desc": "Name of Vehicle"
+		},
+		"lblmileage": {
+			"desc": "Mileage"
+		},
+
+		"vehGrade": {
+			"desc": "Grade"
+		},
+		"lbldoor": {
+			"desc": "Door"
+		},
+		"lblenginedisp": {
+			"desc": "Engine Displacement"
+		},
+		"vehColor": {
+			"desc": "Color"
+		},
+		"lblmodelyear": {
+			"desc": "Model Year"
+		},
+		"lblmodel": {
+			"desc": "Model"
+		},
+		"lblownername": {
+			"desc": "Name of the Owner"
+		},
+		"lblusername": {
+			"desc": "User Name"
+		},
+		"lblreg": {
+			"desc": "Registration"
+		},
+		"lblregno": {
+			"desc": "Registration No"
+		},
+		"lblmain": {
+			"desc": "Main Purpose "
+		},
+		"lblcic": {
+			"desc": "CIC Product Code"
+		}
+	},
+
+	"faxproductinfo_jp": {
+		"lblproductinfo": {
+			"desc": "商品 /単位"
+		},
+		"vehName": {
+			"desc": "車名"
+		},
+		"lblmileage": {
+			"desc": "走行距離"
+		},
+		"vehGrade": {
+			"desc": "グレード"
+		},
+		"lbldoor": {
+			"desc": "ボディー"
+		},
+		"lblenginedisp": {
+			"desc": "排気量"
+		},
+		"vehColor": {
+			"desc": "色"
+		},
+		"lblmodelyear": {
+			"desc": "年式"
+		},
+		"lblmodel": {
+			"desc": "型式 "
+		},
+		"lblownername": {
+			"desc": "所有者名義人"
+		},
+		"lblusername": {
+			"desc": "使用者名義人"
+		},
+		"lblreg": {
+			"desc": "登録区分"
+		},
+		"lblregno": {
+			"desc": "登録番号"
+		},
+		"lblmain": {
+			"desc": "主な使用目的 "
+		},
+		"lblcic": {
+			"desc": "ＣＩＣ商品コード"
+		}
+	},
+	"faxapp_en": {
+		"lblhdrappcapture": {
+			"desc": "Application Capture"
+		},
+		"lbltxn": {
+			"desc": "Transaction No:"
+		},
+		"lblcustomertype": {
+			"desc": "Customer Type:"
+		},
+		"lblsalesmethod": {
+			"desc": "Sales Method:"
+		},
+		"rodretail": {
+			"desc": "Retail"
+		},
+		"rdocorp": {
+			"desc": "Corp"
+		},
+		"lblapplicationdate": {
+			"desc": "Application Date:"
+		},
+		"lblsaledate": {
+			"desc": "Sales Contract Date"
+		},
+		"rdostoresale": {
+			"desc": "Store Sale"
+		},
+		"rdodoorsale": {
+			"desc": "Door To Door"
+		}
+	},
+	"faxapp_jp": {
+		"lblhdrappcapture": {
+			"desc": "アプリケーション キャプチャ"
+		},
+		"lbltxn": {
+			"desc": "取引コード"
+		},
+		"lblcustomertype": {
+			"desc": "顧客タイプ"
+		},
+		"lblsalesmethod": {
+			"desc": "販売方法"
+		},
+		"lblapplicationdate": {
+			"desc": "申込日（年月日）"
+		},
+		"lblsaledate": {
+			"desc": "売買契約日"
+		},
+		"rodretail": {
+			"desc": "個人"
+		},
+		"rdocorp": {
+			"desc": "法人"
+		},
+		"rdostoresale": {
+			"desc": "店舗販売"
+		},
+		"rdodoorsale": {
+			"desc": "訪問販売/電話勧誘販売"
+		}
+	},
+	"faxpersonal_en": {
+		"lblpersonalinfo": {
+			"desc": "Personal Information"
+		},
+		"lbllastnamekana": {
+			"desc": "Last Name Kana"
+		},
+		"lblfirstnamekana": {
+			"desc": "First Name Kana"
+		},
+		"lbllastnamekanji": {
+			"desc": "Last Name Kanji"
+		},
+		"lblfirstnamekanji": {
+			"desc": "First Name Kanji"
+		},
+		"lblgender": {
+			"desc": "Gender"
+		},
+		"lblseal": {
+			"desc": "Seal"
+		},
+		"lblmobileno": {
+			"desc": "Mobile No"
+		},
+		"lblworkinfo": {
+			"desc": "Applicant Workplace, Family and Residence Details"
+		},
+		"lbladdressinfo": {
+			"desc": "Address Details"
+		},
+		"lbldob": {
+			"desc": "Date of Birth"
+		},
+		"lblperfectkana": {
+			"desc": "Prefecture Kana"
+		},
+		"lblperfectkanji": {
+			"desc": "Prefecture Kanji"
+		},
+		"lblcitikana": {
+			"desc": "City Kana"
+		},
+		"lblcitikanji": {
+			"desc": "City Kanji"
+		},
+		"lblstretkana": {
+			"desc": "Street Address Kana"
+		},
+		"lblstretkanji": {
+			"desc": "Street Address Kanji"
+		},
+		"lblaptroomkana": {
+			"desc": "Apartment-Room # Kana"
+		},
+		"lblaptroomkanji": {
+			"desc": "Apartment-Room # Kanji"
+		},
+		"lblcountrykana": {
+			"desc": "Country Kana"
+		},
+		"lblcountrykanji": {
+			"desc": "Country Kanji"
+		},
+		"lblworkplacekana": {
+			"desc": "Workplace Name Kana"
+		},
+		"lblworkplacekanji": {
+			"desc": "Workplace Name Kanji"
+		},
+		"lblserviceyy": {
+			"desc": "Service/School Year"
+		},
+		"lblservicemm": {
+			"desc": "Service/School Month"
+		},
+		"lblhousingloan": {
+			"desc": "Housing Loan"
+		},
+		"lbltypeofresid": {
+			"desc": "Type Of Residents"
+		},
+		"lblannualincome": {
+			"desc": "Annual Income"
+		},
+		"lbl_NwOccupation": {
+			"desc": "New Occupation"
+		},
+		"lblnoofemp": {
+			"desc": "New Occupation"
+		},
+		"lblhouseholdmem": {
+			"desc": "Household Members"
+		},
+		"lbl_LivingTogether": {
+			"desc": "Living Together/Separately With Householder"
+		},
+		"lbl_TimeOfResidenceyy": {
+			"desc": "Time Of Residence(YY)"
+		},
+		"lbl_TimeOfResidencemm": {
+			"desc": "Time Of Residence(mm)"
+		},
+		"lblemail": {
+			"desc": "Email"
+		},
+		"lblera": {
+			"desc": "Era"
+		},
+		"lblzipcd": {
+			"desc": "Zip Code"
+		},
+		"lblresitype": {
+			"desc": "Type of Residence"
+		},
+		"lblresiyy": {
+			"desc": "Time of Residence YY"
+		},
+		"lblresimm": {
+			"desc": "Time of Residence MM"
+		},
+		"lblfamily": {
+			"desc": "Family Members"
+		},
+		"lblspouse": {
+			"desc": "Spouse"
+		},
+		"lblappfamstr": {
+			"desc": "Family Structure"
+		},
+		"lblnobro": {
+			"desc": "Number of Brothers and Sister"
+		},
+		"lblworkplacephn": {
+			"desc": "Workplace Phone No"
+		},
+		"lblempcount": {
+			"desc": "Employee Count"
+		},
+		"lblappservschoolyy": {
+			"desc": "Service School(YY)"
+		},
+		"lblappservschoolmm": {
+			"desc": "Service School(MM)"
+		},
+		"lblbustype": {
+			"desc": "Business Type"
+		},
+		"lblappchildren": {
+			"desc": "Children"
+		},
+		"lblappfmoth": {
+			"desc": "Other Members"
+		},
+		"lblappnoccoth": {
+			"desc": "New Occupation(Oth)"
+		},
+		"lblemppatt": {
+			"desc": "Emp Pattern"
+		},
+		"lblemppattoth": {
+			"desc": "Emp Pattern(Oth)"
+		}
+	},
+
+	"faxpersonal_jp": {
+		"lblpersonalinfo": {
+			"desc": "申込者情報"
+		},
+		"lbllastnamekana": {
+			"desc": " カタカナ 姓"
+		},
+		"lblfirstnamekana": {
+			"desc": " カタカナ 名 "
+		},
+		"lbllastnamekanji": {
+			"desc": "漢字 姓"
+		},
+		"lblfirstnamekanji": {
+			"desc": "漢字 名"
+		},
+		"lblgender": {
+			"desc": "性別"
+		},
+		"lblseal": {
+			"desc": "印"
+		},
+		"lblmobileno": {
+			"desc": "モバイル"
+		},
+		"lblworkinfo": {
+			"desc": "申込者 勤務先・住まい"
+		},
+		"lbladdressinfo": {
+			"desc": "自宅の住所"
+		},
+		"lbldob": {
+			"desc": "生年月日"
+		},
+		"lblperfectkana": {
+			"desc": "法人名（カナ）ご住所 １"
+		},
+		"lblperfectkanji": {
+			"desc": "法人名（漢字）ご住所 １"
+		},
+		"lblcitikana": {
+			"desc": "ご住所 ２"
+		},
+		"lblcitikanji": {
+			"desc": "ご住所 ２"
+		},
+		"lblstretkana": {
+			"desc": "ご住所 ３"
+		},
+		"lblstretkanji": {
+			"desc": "ご住所 ３"
+		},
+		"lblaptroomkana": {
+			"desc": "建物名・部屋番号"
+		},
+		"lblaptroomkanji": {
+			"desc": "建物名・部屋番号"
+		},
+		"lblcountrykana": {
+			"desc": "国カナ"
+		},
+		"lblcountrykanji": {
+			"desc": "国漢字"
+		},
+		"lblworkplacekana": {
+			"desc": "勤務先 カナ住所"
+		},
+		"lblworkplacekanji": {
+			"desc": "勤務先 漢字住所"
+		},
+		"lblserviceyy": {
+			"desc": "勤務年数"
+		},
+		"lblservicemm": {
+			"desc": "ヶ月"
+		},
+		"lblhousingloan": {
+			"desc": "住宅ローン"
+		},
+		"lbltypeofresid": {
+			"desc": "お住まい"
+		},
+		"lblannualincome": {
+			"desc": "税込年収"
+		},
+		"lbl_NwOccupation": {
+			"desc": "職業"
+		},
+		"lblnoofemp": {
+			"desc": "従業員数"
+		},
+		"lblhouseholdmem": {
+			"desc": "世帯人数"
+		},
+		"lbl_LivingTogether": {
+			"desc": "世帯主との同居"
+		},
+		"lbl_TimeOfResidenceyy": {
+			"desc": "居住年数(YY)"
+		},
+		"lbl_TimeOfResidencemm": {
+			"desc": "居住年数(mm)"
+		},
+		"lblemail": {
+			"desc": "電子メール"
+		},
+		"lblera": {
+			"desc": "元号"
+		},
+		"lblzipcd": {
+			"desc": "郵便番号"
+		},
+		"lblresitype": {
+			"desc": "お住まい"
+		},
+		"lblresiyy": {
+			"desc": "居住年数（年）"
+		},
+		"lblresimm": {
+			"desc": "居住年数（月）"
+		},
+		"lblfamily": {
+			"desc": "家族人数"
+		},
+		"lblspouse": {
+			"desc": "配偶者"
+		},
+		"lblappfamstr": {
+			"desc": "家族人数"
+		},
+		"lblnobro": {
+			"desc": "兄弟"
+		},
+		"lblworkplacephn": {
+			"desc": "勤務先電話番号"
+		},
+		"lblempcount": {
+			"desc": "従業員数"
+		},
+		"lblappservschoolyy": {
+			"desc": "勤務年数（年年）"
+		},
+		"lblappservschoolmm": {
+			"desc": "勤務年数（月月）"
+		},
+		"lblbustype": {
+			"desc": "業種"
+		},
+		"lblappchildren": {
+			"desc": "子供"
+		},
+		"lblappfmoth": {
+			"desc": "その他"
+		},
+		"lblappnoccoth": {
+			"desc": "職業（その他）"
+		},
+		"lblemppatt": {
+			"desc": "雇用形態"
+		},
+		"lblemppattoth": {
+			"desc": "その他"
+		}
+	},
+	"Adminmst_en": {
+		"lbllanid": {
+			"desc": "Lan Id"
+		},
+		"lblusername": {
+			"desc": "User Name"
+		},
+		"lblbranchname": {
+			"desc": "Branch Name"
+		},
+		"lbluserrole": {
+			"desc": "User role"
+		},
+		"lblemail": {
+			"desc": "Email Id"
+		},
+		"lblactive": {
+			"desc": "Active"
+		},
+		"lblexpHeader": {
+			"desc": "Expression Master"
+		},
+		"lblconHeader": {
+			"desc": "Condition Master"
+		},
+		"lblruleHeader": {
+			"desc": "Rule Master"
+		},
+		"lblhdrrulemaster": {
+			"desc": "Rule Master"
+		},
+		"lblhdrexprmaster": {
+			"desc": "Expression Master"
+		},
+		"lblhdrcondmaster": {
+			"desc": "Condition Master"
+		},
+		"lblhdrrulesim": {
+			"desc": "Rule Simulation"
+		},
+		"btnsimulate": {
+			"desc": "Simulate"
+		},
+		"btndownload": {
+			"desc": "Download Result"
+		},
+		"lblhdrrolemenumap": {
+			"desc": "Role Menu Mapping"
+		},
+		"lbluserinfo": {
+			"desc": "User Information"
+		},
+		"lblroleid": {
+			"desc": "Role ID"
+		},
+		"lbldesc": {
+			"desc": "Description"
+		}
+	},
+
+	"Adminmst_jp": {
+		"lbllanid": {
+			"desc": "Lan Id"
+		},
+		"lblusername": {
+			"desc": "ユーザー名"
+		},
+		"lblbranchname": {
+			"desc": "支店名"
+		},
+		"lbluserrole": {
+			"desc": "ユーザー役割"
+		},
+		"lblemail": {
+			"desc": "電子メールID"
+		},
+		"lblactive": {
+			"desc": "アクティブ"
+		},
+		"lblexpHeader": {
+			"desc": "式マスター"
+		},
+		"lblconHeader": {
+			"desc": "条件マスター"
+		},
+		"lblruleHeader": {
+			"desc": "ルールマスター"
+		},
+		"lblhdrrulemaster": {
+			"desc": "ルールマスター"
+		},
+		"lblhdrexprmaster": {
+			"desc": "式マスター"
+		},
+		"lblhdrcondmaster": {
+			"desc": "条件マスター"
+		},
+		"lblhdrrulesim": {
+			"desc": "ルールシミュレーション"
+		},
+		"btnsimulate": {
+			"desc": "シミュレート"
+		},
+		"btndownload": {
+			"desc": "ダウンロード結果"
+		},
+		"lblhdrrolemenumap": {
+			"desc": "役割メニューのマッピング"
+		},
+		"lbluserinfo": {
+			"desc": "ユーザー情報"
+		},
+		"lblroleid": {
+			"desc": "ロールID"
+		},
+		"lbldesc": {
+			"desc": "解説"
+		}
+	},
+
+	"Onlineservices_en": {
+		"lblsavehdr": {
+			"desc": "XSD Save Message"
+		},
+		"lblsavemsg": {
+			"desc": "Data Saved Successfully"
+		},
+		"lblvalidatehdr": {
+			"desc": "XSD Validation Message"
+		},
+		"lblvalidatesuccessmsg": {
+			"desc": "XSD and XML matched successfully"
+		},
+		"lblvalidateerrmsg": {
+			"desc": "XSD and XML Validation Failed"
+		}
+
+	},
+
+	"Onlineservices_jp": {
+		"lblsavehdr": {
+			"desc": "XSD保存メッセージ"
+		},
+		"lblsavemsg": {
+			"desc": "正常に保存されたデータ"
+		},
+		"lblvalidatehdr": {
+			"desc": "XSD検証メッセージ"
+		},
+		"lblvalidatesuccessmsg": {
+			"desc": "XSDとXMLの照合に成功しました"
+		},
+		"lblvalidateerrmsg": {
+			"desc": "XSDとXMLの検証に失敗しました"
+		}
+	},
+	"yachinform_en": {
+		"lblyachinheader": {
+			"desc": "Application Capture"
+		},
+		"lbltxn": {
+			"desc": "Transaction No"
+		},
+		"lblapplicationdate": {
+			"desc": "Application Date"
+		},
+		"lblmanagmentcompany": {
+			"desc": "Managment Company"
+		},
+		"lblsource":{
+			"desc":"Source"
+		},
+		"lblemailprov":{
+			"desc": "Email Provider"
+		},
+		"lblpersonalinfo": {
+			"desc": "Personal Information (Customer)"
+		},
+		"lblworkplace": {
+			"desc": "Workplace & Income Information (Customer)"
+		},
+		"lblmailinfo": {
+			"desc": "Mailing Address Information"
+		},
+		"lblrentalinfo": {
+			"desc": "Rental Information"
+		},
+		"lblloaninfo": {
+			"desc": "Loan/Management Company Information"
+		},
+		"lblresidence": {
+			"desc": "Residence and Family Information"
+		},
+		"lbladdress": {
+			"desc": "Address Information"
+		},
+		"lblpersonalinfoGuarnt": {
+			"desc": "Personal Information (Guarantor)"
+		},
+		"lblworkplaceG": {
+			"desc": "Workplace & Income Information (Guarantor)"
+		},
+		"lbladdress1": {
+			"desc": "Address Information"
+		},
+		"lblfirstnamekana": {
+			"desc": "First Name(Kana)"
+		},
+		"lbllastnamekana": {
+			"desc": "Last Name (Kana)"
+		},
+		"lblfirstnamekanji": {
+			"desc": "First Name(Kanji)"
+		},
+		"lbllastnamekanji": {
+			"desc": "Last Name(Kanji)"
+		},
+		"lbldob": {
+			"desc": "Date Of Birth"
+		},
+		"lblera": {
+			"desc": "Era"
+		},
+		"lblgender": {
+			"desc": "Gender"
+		},
+		"lblmarital": {
+			"desc": "Marital"
+		},
+		"lblcusttype": {
+			"desc": "Customer Type"
+		},
+		"lblprof": {
+			"desc": "Profession"
+		},
+		"lbljob": {
+			"desc": "Job Type"
+		},
+		"lblPostalCode": {
+			"desc": "Search Postal Code"
+		},
+		"lbladresstype": {
+			"desc": "Source"
+		},
+		"lblperfectkana": {
+			"desc": "Kana Address1"
+		},
+		"lblstretkana": {
+			"desc": "Kana Address2"
+		},
+		"lblaptroomkana": {
+			"desc": "Kana Address3"
+		},
+		"lblperfectkanji": {
+			"desc": "Kanji Address1"
+		},
+		"lblstretkanji": {
+			"desc": "Kanji Address2"
+		},
+		"lblaptroomkanji": {
+			"desc": "Kanji Address3"
+		},
+		"lblworkplacekana": {
+			"desc": "Work Place Kana"
+		},
+		"lblincome": {
+			"desc": "Annual Income"
+		},
+		"lblmobile": {
+			"desc": "Mobile"
+		},
+		"lblphone": {
+			"desc": "Phone"
+		},
+		"lblworth": {
+			"desc": "Net Worth"
+		},
+		"lblcompname": {
+			"desc": "Company Name"
+		},
+		"lblestab": {
+			"desc": "Establishment Date"
+		},
+		"lblworkplacephn": {
+			"desc": "Workplace Phone No."
+		},
+		"lblnoemp": {
+			"desc": "Number of Employees"
+		},
+		"lblNumEmp": {
+			"desc": "Number of Employees"
+		},
+		"lblworkplacekanji": {
+			"desc": "Workplace Name Kanji"
+		},
+		"lblyears": {
+			"desc": "Number of Years in Service"
+		},
+		"lblresitype": {
+			"desc": "Type of Residence"
+		},
+		"lblresiyy": {
+			"desc": "Time of Residence YY"
+		},
+		"lblresimm": {
+			"desc": "Time of Residence MM"
+		},
+		"lblfamily": {
+			"desc": "Family Members"
+		},
+		"lblspouse": {
+			"desc": "Spouse"
+		},
+		"lblnobro": {
+			"desc": "Number of Brothers and Sister"
+		},
+		"lblcontdate": {
+			"desc": "Contract Date"
+		},
+		"lbllivingdate": {
+			"desc": "Living Start Date"
+		},
+		"lblrentstartdate": {
+			"desc": "Rental Start Date"
+		},
+		"lblrentenddate": {
+			"desc": "Rental End Date"
+		},
+		"lblrentterm": {
+			"desc": "Rental Term Months"
+		},
+		"lblrentcharge": {
+			"desc": "Rental Charge"
+		},
+		"lblmanage": {
+			"desc": "Management Charge"
+		},
+		"lblparking": {
+			"desc": "Parking Charge"
+		},
+		"lbldd": {
+			"desc": "DD Charge"
+		},
+		"lblother": {
+			"desc": "Other Charge"
+		},
+		"lbltotal": {
+			"desc": "Fixed Total Amount"
+		},
+		"lbloper": {
+			"desc": "Operational Fees"
+		},
+		"lblinitoper": {
+			"desc": "Initial Operational Fees"
+		},
+		"lblbasic": {
+			"desc": "Basic Month Fee Total"
+		},
+		"lblintbasic": {
+			"desc": "Initial Basic Month Fee Total"
+		},
+		"lblreneew": {
+			"desc": "Renewal Charge"
+		},
+		"lblnot": {
+			"desc": "Notification Charge"
+		},
+		"lblkanaddr1": {
+			"desc": "Kana Address1"
+		},
+		"lblkanaddr2": {
+			"desc": "Kana Address2"
+		},
+		"lblkanaddr3": {
+			"desc": "Kana Address3"
+		},
+		"lblkanjiddr1": {
+			"desc": "Kanji Address1"
+		},
+		"lblkanjiddr2": {
+			"desc": "Kanji Address2"
+		},
+		"lblkanjiddr3": {
+			"desc": "Kanji Address3"
+		},
+		"lblmain": {
+			"desc": "Management Company Code"
+		},
+		"lblmainbranch": {
+			"desc": "Management Branch"
+		},
+		"lblmaincomp": {
+			"desc": "Management Company Name"
+		},
+		"lbloccupkana": {
+			"desc": "Occupant Name Kana"
+		},
+		"lbloccupkanji": {
+			"desc": "Occupant Name Kanji"
+		},
+		"lbloccuprel": {
+			"desc": "Occupant Relation"
+		},
+		"lbloccupgender": {
+			"desc": "Occupant Gender"
+		},
+		"lblguarmon": {
+			"desc": "Guarantee Months"
+		},
+		"lblduedate": {
+			"desc": "Due Date"
+		},
+		"lblcontractcond": {
+			"desc": "Contract Condition"
+		},
+		"lblzipcd": {
+			"desc": "Zip Code"
+		},
+		"lblbuild": {
+			"desc": "Building Name"
+		},
+		"lblbuildkana": {
+			"desc": "Building Name Kana"
+		},
+		"lblbuildno": {
+			"desc": "Building Number"
+		},
+		"lblmail": {
+			"desc": "Mailing Address same as Applicant Address"
+		},
+		"btntempsave": {
+			"desc": "Temporary Save"
+		},
+		"btnsave": {
+			"desc": "Application Save"
+		},
+		"lblmanagemntcode":{
+			"desc": "Search Management Code"
+		},
+		"lbldd": {
+			"desc": "DirectDebit"
+		},
+		"lblddaccountno": {
+			"desc": "DD Account Number"
+		},
+		"lblacctyp": {
+			"desc": "DD Account Type"
+		},
+		"lblaccholderkana": {
+			"desc": "Account  Holder Name Kana"
+		},
+		"lblacckanji": {
+			"desc": "Account  Holder Name Kanji"
+		},
+		"lblddstart": {
+			"desc": "DD Start Date"
+		}
+
+
+	},
+	"yachinform_jp": {
+		"lblyachinheader": {
+			"desc": "アプリケーションキャプチャ"
+		},
+		"lbltxn": {
+			"desc": "取引コード"
+		},
+		"lblapplicationdate": {
+			"desc": "申込日（年月日"
+		},
+		"lblmanagmentcompany": {
+			"desc": "管理会社"
+		},
+		"lblsource":{
+			"desc":"ソース"
+		},
+		"lblemailprov":{
+			"desc": "ドメイン名"
+		},
+		"lblpersonalinfo": {
+			"desc": "個人情報 (顧客)"
+		},
+		"lblworkplace": {
+			"desc": "勤務先及び年収情報 (顧客)"
+		},
+		"lblmailinfo": {
+			"desc": "郵送住所情報"
+		},
+		"lblrentalinfo": {
+			"desc": "賃貸情報"
+		},
+		"lblloaninfo": {
+			"desc": "ローン・管理会社情報"
+		},
+		"lblresidence": {
+			"desc": "お住まい及び家族情報"
+		},
+		"lbladdress": {
+			"desc": "住所情報"
+		},
+		"lblpersonalinfoGuarnt": {
+			"desc": "個人情報 (保証人)"
+		},
+		"lblworkplaceG": {
+			"desc": "勤務先及び年収情報 (保証人)"
+		},
+		"lbladdress1": {
+			"desc": "住所情報"
+		},
+		"lblfirstnamekana": {
+			"desc": "名(カナ)"
+		},
+		"lbllastnamekana": {
+			"desc": "姓 (カナ)"
+		},
+		"lblfirstnamekanji": {
+			"desc": "名(漢字)"
+		},
+		"lbllastnamekanji": {
+			"desc": "姓(漢字)"
+		},
+		"lbldob": {
+			"desc": "生年月日"
+		},
+		"lblera": {
+			"desc": "元号"
+		},
+		"lblgender": {
+			"desc": "性別"
+		},
+		"lblmarital": {
+			"desc": "夫婦"
+		},
+		"lblcusttype": {
+			"desc": "顧客種"
+		},
+		"lblprof": {
+			"desc": "職業"
+		},
+		"lbljob": {
+			"desc": "職種"
+		},
+		"lblPostalCode": {
+			"desc": "探索郵便番号"
+		},
+		"lbladresstype": {
+			"desc": "ソース"
+		},
+		"lblperfectkana": {
+			"desc": "（カナ）住所１"
+		},
+		"lblstretkana": {
+			"desc": "（カナ）住所２"
+		},
+		"lblaptroomkana": {
+			"desc": "（カナ）住所３"
+		},
+		"lblperfectkanji": {
+			"desc": "（漢字）住所１"
+		},
+		"lblstretkanji": {
+			"desc": "（漢字）住所２"
+		},
+		"lblaptroomkanji": {
+			"desc": "（漢字）住所３"
+		},
+		"lblworkplacekana": {
+			"desc": "勤務先 カナ住所"
+		},
+		"lblincome": {
+			"desc": "年収"
+		},
+		"lblmobile": {
+			"desc": "携帯電話番号"
+		},
+		"lblphone": {
+			"desc": "電話"
+		},
+		"lblworth": {
+			"desc": "資本金 百万円"
+		},
+		"lblcompname": {
+			"desc": "会社名"
+		},
+		"lblestab": {
+			"desc": "設立年月"
+		},
+		"lblworkplacephn": {
+			"desc": "勤務先電話番号"
+		},
+		"lblnoemp": {
+			"desc": "就業者数"
+		},
+		"lblNumEmp": {
+			"desc": "就業者数"
+		},
+		"lblworkplacekanji": {
+			"desc": "勤務先 漢字住所"
+		},
+		"lblyears": {
+			"desc": "勤続年数（年）"
+		},
+		"lblresitype": {
+			"desc": "お住まい"
+		},
+		"lblresiyy": {
+			"desc": "居住年数（年）"
+		},
+		"lblresimm": {
+			"desc": "居住年数（月）"
+		},
+		"lblfamily": {
+			"desc": "家族人数"
+		},
+		"lblspouse": {
+			"desc": "配偶者"
+		},
+		"lblnobro": {
+			"desc": "兄弟"
+		},
+		"lblcontdate": {
+			"desc": "賃貸借解約日"
+		},
+		"lbllivingdate": {
+			"desc": "入居予定日"
+		},
+		"lblrentstartdate": {
+			"desc": "賃貸借開始日"
+		},
+		"lblrentenddate": {
+			"desc": "賃貸借完了日"
+		},
+		"lblrentterm": {
+			"desc": "賃貸借期間"
+		},
+		"lblrentcharge": {
+			"desc": "賃料"
+		},
+		"lblmanage": {
+			"desc": "管理費"
+		},
+		"lblparking": {
+			"desc": "駐車場料金"
+		},
+		"lbldd": {
+			"desc": "口座振替料金"
+		},
+		"lblother": {
+			"desc": "その他費用等"
+		},
+		"lbltotal": {
+			"desc": "月額賃借費用合計金"
+		},
+		"lbloper": {
+			"desc": "事務手数料"
+		},
+		"lblinitoper": {
+			"desc": "初回事務手数料"
+		},
+		"lblbasic": {
+			"desc": "月額支払合計金"
+		},
+		"lblintbasic": {
+			"desc": "初回月額支払合計金"
+		},
+		"lblreneew": {
+			"desc": "更新料金"
+		},
+		"lblnot": {
+			"desc": "通知料金"
+		},
+		"lblkanaddr1": {
+			"desc": "（カナ）住所１"
+		},
+		"lblkanaddr2": {
+			"desc": "（カナ）住所２"
+		},
+		"lblkanaddr3": {
+			"desc": "（カナ）住所３"
+		},
+		"lblkanjiddr1": {
+			"desc": "（漢字）住所１"
+		},
+		"lblkanjiddr2": {
+			"desc": "（漢字）住所２"
+		},
+		"lblkanjiddr3": {
+			"desc": "（漢字）住所３"
+		},
+		"lblmain": {
+			"desc": "管理会社コード"
+		},
+		"lblmainbranch": {
+			"desc": "管理部門"
+		},
+		"lblmaincomp": {
+			"desc": "管理会社名"
+		},
+		"lbloccupkana": {
+			"desc": "入居者名（カナ）"
+		},
+		"lbloccupkanji": {
+			"desc": "入居者名漢字"
+		},
+		"lbloccuprel": {
+			"desc": "申込者との関係"
+		},
+		"lbloccupgender": {
+			"desc": "入居者の性別"
+		},
+		"lblguarmon": {
+			"desc": "保証期間"
+		},
+		"lblduedate": {
+			"desc": "口座振替支払日"
+		},
+		"lblcontractcond": {
+			"desc": "契約条件"
+		},
+		"lblzipcd": {
+			"desc": "郵便番号"
+		},
+		"lblbuild": {
+			"desc": "建物名"
+		},
+		"lblbuildkana": {
+			"desc": "建物名（カナ）"
+		},
+		"lblbuildno": {
+			"desc": "建物番号"
+		},
+		"lblmail": {
+			"desc": "郵送住所は申込者の住所と同じ"
+		},
+		"btntempsave": {
+			"desc": "一時保存"
+		},
+		"btnsave": {
+			"desc": "申込書保存"
+		},
+		"lblmanagemntcode":{
+			"desc": "検索管理コード"
+		},
+		"lbldd": {
+			"desc": "口座振替"
+		},
+		"lblddaccountno": {
+			"desc": "口振口座番号"
+		},
+		"lblacctyp": {
+			"desc": "口振口座タイプ"
+		},
+		"lblaccholderkana": {
+			"desc": "口座名カナ"
+		},
+		"lblacckanji": {
+			"desc": "口座名漢字"
+		},
+		"lblddstart": {
+			"desc": "口座名漢字"
+		}
+
+	},
+	"expoperation_en": {
+		"lblheader": {
+			"desc": "Rule Engine Expression"
+		},
+		"lblprjname": {
+			"desc": "Project Name"
+		},
+		"lblexpname": {
+			"desc": "Expression Name"
+		},
+		"lblexptypename": {
+			"desc": "Expression Type"
+		},
+		"lblexpdes": {
+			"desc": "Expression Description"
+		},
+		"lblexpvalue": {
+			"desc": "Expression Value"
+		},
+		"lblactive": {
+			"desc": "Active"
+		},
+		"lblmark": {
+			"desc": "Mark for Display"
+		}
+	},
+	"expoperation_jp": {
+		"lblheader": {
+			"desc": "ルールエンジン式"
+		},
+		"lblprjname": {
+			"desc": "プロジェクト名"
+		},
+		"lblexpname": {
+			"desc": "式名"
+		},
+		"lblexptypename": {
+			"desc": "式のタイプ"
+		},
+		"lblexpdes": {
+			"desc": "式の説明"
+		},
+		"lblexpvalue": {
+			"desc": "式の値"
+		},
+		"lblactive": {
+			"desc": "アクティブ"
+		},
+		"lblmark": {
+			"desc": "表示する"
+		}
+	},
+	"condoperation_en": {
+		"lblheader": {
+			"desc": "Rule Engine Condition"
+		},
+		"lblprjname": {
+			"desc": "Project Name"
+		},
+		"lblcondname": {
+			"desc": "Condition Name"
+		},
+		"lblconddes": {
+			"desc": "Condition Description"
+		},
+		"lblexpres": {
+			"desc": "Find Expression"
+		},
+		"lbloperator": {
+			"desc": "Select Operator"
+		},
+		"lblexpvalue": {
+			"desc": "Condition"
+		},
+		"lblactive": {
+			"desc": "Active"
+		}
+	},
+	"condoperation_jp": {
+		"lblheader": {
+			"desc": "ルールエンジンの条件"
+		},
+		"lblprjname": {
+			"desc": "プロジェクト名"
+		},
+		"lblcondname": {
+			"desc": "条件名"
+		},
+		"lblconddes": {
+			"desc": "条件の説明"
+		},
+		"lblexpres": {
+			"desc": "式を見つける"
+		},
+		"lbloperator": {
+			"desc": "オペレーターを選択"
+		},
+		"lblexpvalue": {
+			"desc": "条件"
+		},
+		"lblactive": {
+			"desc": "アクティブ"
+		}
+	},
+	"ruleoperation_en": {
+		"lblheader": {
+			"desc": "Rule Engine Rule"
+		},
+		"lblprjname": {
+			"desc": "Project Name"
+		},
+		"lblrulename": {
+			"desc": "Rule Name"
+		},
+		"lblruledesc": {
+			"desc": "Rule Description"
+		},
+		"lblcondition": {
+			"desc": "Find Condition"
+		},
+		"lbloperator": {
+			"desc": "Select Operator"
+		},
+		"lblruleexp": {
+			"desc": "Rule Expression"
+		},
+		"lblactive": {
+			"desc": "Active"
+		}
+	},
+	"ruleoperation_jp": {
+		"lblheader": {
+			"desc": "ルールエンジンルール"
+		},
+		"lblprjname": {
+			"desc": "プロジェクト名"
+		},
+		"lblrulename": {
+			"desc": "ルール名"
+		},
+		"lblruledesc": {
+			"desc": "ルールの説明"
+		},
+		"lblcondition": {
+			"desc": "条件を見つける"
+		},
+		"lbloperator": {
+			"desc": "オペレーターを選択"
+		},
+		"lblruleexp": {
+			"desc": "ルール式"
+		},
+		"lblactive": {
+			"desc": "アクティブ"
+		}
+	},
+	"Layout_eng": {
+		"lbllayoutheader": {
+			"desc": "Layout Validation"
+		},
+		"lblvaltype": {
+			"desc": "Type of Validation"
+		},
+		"lblvalidname": {
+			"desc": "Validation Name"
+		},
+		"lblbtnvalidate": {
+			"desc": "Validate"
+		},
+		"lblbtnsave": {
+			"desc": "Save"
+		},
+		"lblbtncancel": {
+			"desc": "Cancel"
+		}
+	},
+	"Layout_jp": {
+		"lbllayoutheader": {
+			"desc": "レイアウト検証"
+		},
+		"lblvaltype": {
+			"desc": "検証種"
+		},
+		"lblvalidname": {
+			"desc": "検証名"
+		},
+		"lblbtnvalidate": {
+			"desc": "検証"
+		},
+		"lblbtnsave": {
+			"desc": "保存"
+		},
+		"lblbtncancel": {
+			"desc": "キャンセル"
+		}
+	},
+	"header_en": {
+		"lblhdrsearch": {
+			"desc": "Transaction List"
+		},
+		"lblhdrdynamicform": {
+			"desc": "Form Designer"
+		},
+		"lblhdrrolemaster": {
+			"desc": "Role Master"
+		},
+		"lblhdrusrmaster": {
+			"desc": "User Master"
+		},
+		"lblinterfaceheader": {
+			"desc": "Interface Configuration Details"
+		},
+		"lblhdrrolemenu": {
+			"desc": "Role Menu Mapping"
+		}
+	},
+	"header_jp": {
+		"lblhdrsearch": {
+			"desc": "取引一覧"
+		},
+		"lblhdrdynamicform": {
+			"desc": "フォームをデザインする"
+		},
+		"lblhdrrolemaster": {
+			"desc": "ロールマスター"
+		},
+		"lblhdrusrmaster": {
+			"desc": "ユーザーマスター"
+		},
+		"lblinterfaceheader": {
+			"desc": "インターフェース構成詳細"
+		},
+		"lblhdrrolemenu": {
+			"desc": "役割メニューのマッピング"
+		}
+	},
+	"handoffconfig_en": {
+		"lblhandoffheader": {
+			"desc": "Report Handoff Configuration Details"
+		},
+		"lblreporttype": {
+			"desc": "Type of Reports"
+		},
+		"lblreportname": {
+			"desc": "Report Name"
+		}
+	},
+	"handoffconfig_jp": {
+		"lblhandoffheader": {
+			"desc": "レポートハンドオフ構成情報"
+		},
+		"lblreporttype": {
+			"desc": "レポート種"
+		},
+		"lblreportname": {
+			"desc": "レポート名"
+		}
+	},
+	"interfaceconfig_en": {
+		"lblinterfaceheader": {
+			"desc": "Interface Configuration Details"
+		},
+		"lblconfigtype": {
+			"desc": "Configuration Type"
+		},
+		"lblconfigname": {
+			"desc": "Configuration Type Name"
+		},
+		"lblbtnsave": {
+			"desc": "Save"
+		},
+		"lblbtncancel": {
+			"desc": "Cancel"
+		}
+	},
+	"interfaceconfig_jp": {
+		"lblinterfaceheader": {
+			"desc": "インターフェース構成情報"
+		},
+		"lblconfigtype": {
+			"desc": "構成種"
+		},
+		"lblconfigname": {
+			"desc": "構成種名"
+		},
+		"lblbtnsave": {
+			"desc": "保存"
+		},
+		"lblbtncancel": {
+			"desc": "キャンセル"
+		}
+	},
+	"reporttool_en": {
+		"lblreportoolhdr": {
+			"desc": "Report Handoff Configuration Details"
+		},
+		"lblreporttype": {
+			"desc": "Report"
+		},
+		"lblreportnewname": {
+			"desc": "Report Name"
+		},
+		"lblprjname": {
+			"desc": "System Name"
+		},
+		"lblactive": {
+			"desc": "Active"
+		}
+	},
+	"reporttool_jp": {
+		"lblreportoolhdr": {
+			"desc": "レポートハンドオフ構成情報"
+		},
+		"lblreporttype": {
+			"desc": "レポート"
+		},
+		"lblreportnewname": {
+			"desc": "レポート名"
+		},
+		"lblprjname": {
+			"desc": "のリクエスト"
+		},
+		"lblactive": {
+			"desc": "アクティブ"
+		}
+	},
+	"rulesimulation_en": {
+		"lblhdrrulesim": {
+			"desc": "Rule Simulation"
+		},
+		"btnsimulate": {
+			"desc": "Simulate"
+		},
+		"btndownload": {
+			"desc": "Download Result"
+		},
+		"lblbtncancel": {
+			"desc": "Cancel"
+		},
+		"lbltxncd": {
+			"desc": "Transaction Code: "
+		},
+		"lblrulename": {
+			"desc": "Rule Name: "
+		},
+		"lblruleresult": {
+			"desc": "Rule Result: "
+		},
+		"lblsubpolicy": {
+			"desc": "Sub Policy Name"
+		},
+		"lblsubresult": {
+			"desc": "Result"
+		}
+	},
+	"rulesimulation_jp": {
+		"lblhdrrulesim": {
+			"desc": "ルールシミュレーション"
+		},
+		"btnsimulate": {
+			"desc": "シミュレート"
+		},
+		"btndownload": {
+			"desc": "ダウンロード結果"
+		},
+		"lblbtncancel": {
+			"desc": "キャンセル"
+		},
+		"lbltxncd": {
+			"desc": "取引番号:"
+		},
+		"lblrulename": {
+			"desc": "ルール名: "
+		},
+		"lblruleresult": {
+			"desc": "ルール結果: "
+		},
+		"lblsubpolicy": {
+			"desc": "サブポリシー名 "
+		},
+		"lblsubresult": {
+			"desc": "結果"
+		}
+	},
+	"orico_en": {
+		"lblTitle": {
+			"desc": "Orico Web Credit Application"
+		},
+		"orico_tab1": {
+			"desc": "Application Information"
+		},
+		"orico_tab2": {
+			"desc": "Enter Payment Details"
+		},
+		"orico_tab3": {
+			"desc": "Check Payment Details"
+		},
+		"orico_tab4": {
+			"desc": "Enter Basic Details"
+		},
+		"orico_tab5": {
+			"desc": "Enter Other Details"
+		},
+		"orico_tab6": {
+			"desc": "Check Details Entered"
+		},
+		"orico_tab7": {
+			"desc": "Application Complete"
+		},
+		"lblcontractDtls": {
+			"desc": "Check Contract Details"
+		},
+		"lblfrenchstorename": {
+			"desc": "Frenchise Store Name"
+		},
+		"lblapplidate": {
+			"desc": "Application Date"
+		},
+		"lblrqstnum": {
+			"desc": "Request Number"
+		},
+		"lblnumber": {
+			"desc": "Number"
+		},
+		"lblprodname": {
+			"desc": "Product(Service/Right) Name (Trademark or Manufacturer's Name)/Type/Model"
+		},
+		"lblquantity": {
+			"desc": "Quantity/No. of Times"
+		},
+		"lblcashamnt": {
+			"desc": "Cash Amount 円"
+		},
+		"lbltotprodcost": {
+			"desc": "Total Product Cost"
+		},
+		"lbltotshipcost": {
+			"desc": "Total Shipping Cost"
+		},
+		"lbltotcashamt": {
+			"desc": "Total Cash Amount(inc. Tax)"
+		},
+		"lblinfostoreshop": {
+			"desc": "Information about Store or Service Provider shop"
+		},
+		"lblservchrgrate": {
+			"desc": "Service Charge Rate"
+		},
+		"lblservchrges": {
+			"desc": "Service Charges"
+		},
+		"lblproddtls": {
+			"desc": "Product Details"
+		},
+		"lblimplant": {
+			"desc": "Implant Treatment"
+		},
+		"lbldwnpmnt": {
+			"desc": "Downpayment"
+		},
+		"lblcrdtamnt": {
+			"desc": "Credit Amount"
+		},
+		"lbloricologin": {
+			"desc": "e-Orico Login"
+		},
+		"lblmemberid": {
+			"desc": "Member ID"
+		},
+		"lblpasswd": {
+			"desc": "Password"
+		},
+		"lblapplicantinfo": {
+			"desc": "Applicant Information"
+		},
+		"lblnamekanji": {
+			"desc": "Name (Kanji)"
+		},
+		"lbllsurname": {
+			"desc": "Surname"
+		},
+		"lblfname": {
+			"desc": "Name"
+		},
+		"lblnamekana": {
+			"desc": "Name (Kana)"
+		},
+		"lblgender": {
+			"desc": "Gender"
+		},
+		"lblDOB": {
+			"desc": "Date Of Birth"
+		},
+		"lblyy": {
+			"desc": "YY"
+		},
+		"lblmm": {
+			"desc": "MM"
+		},
+		"lbldd": {
+			"desc": "DD"
+		},
+		"lblwrkplcDtls": {
+			"desc": "Workplace Details"
+		},
+		"lblOccuType": {
+			"desc": "Occupation Type"
+		},
+		"lblOccuptn": {
+			"desc": "Select Occupation"
+		},
+		"lblindustrytype": {
+			"desc": "Industry Type"
+		},
+		"lblindustry1": {
+			"desc": "Industry"
+		},
+		"lblindustry2": {
+			"desc": "Industry"
+		},
+		"lblwrkplace": {
+			"desc": "Workplace"
+		},
+		"lblwrkplacekana": {
+			"desc": "Workplace (Kana)"
+		},
+		"lblwrkplpostalcd": {
+			"desc": "Workplace Postal Code"
+		},
+		"lblwrkplpost1": {
+			"desc": "000"
+		},
+		"lblwrkplpost2": {
+			"desc": "0000"
+		},
+		"lblwrkpladd": {
+			"desc": "Workplace Address"
+		},
+		"lblwrkpladd1": {
+			"desc": "Address-1"
+		},
+		"lblwrkpladd2": {
+			"desc": "Address-2"
+		},
+		"lblwrkpladd3": {
+			"desc": "Address-3"
+		},
+		"lblwrkpladd4": {
+			"desc": "Address-4"
+		},
+		"lblstoredtls": {
+			"desc": "Store or Service Provider Shop Details"
+		},
+		"lblfrenhiseadd": {
+			"desc": "Frenchise Address"
+		},
+		"lblfrenhisephone": {
+			"desc": "Phone Number"
+		},
+		"lblfrenhisefax": {
+			"desc": "Fax Number"
+		},
+		"lblrepname": {
+			"desc": "Representative Name"
+		},
+		"lblfrenhisemail": {
+			"desc": "Email"
+		},
+		"lblintlprocfee": {
+			"desc": "Installment Processing Fee"
+		},
+		"lblpmntprocfee": {
+			"desc": "Payment Processing Fee"
+		},
+		"lblmembid": {
+			"desc": "Member ID (Frenchise Store)"
+		},
+		"lblOtheDtls": {
+			"desc": "Enter Other Details"
+		},
+		"lblOccType": {
+			"desc": "Occupation Type"
+		},
+		"lblappcomp1": {
+			"desc": "Thanks for your application."
+		},
+		"lblappcomp2": {
+			"desc": "Your application has been received. Orico will get in touch with you, please wait."
+		},
+		"lblappcomp3": {
+			"desc": "For enquiries, following Receipt No. will be required."
+		},
+		"lblrcptno": {
+			"desc": "Receipt No."
+		},
+		"lblcontdtlsenq1": {
+			"desc": "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"
+		},
+		"lblcontdtlsenq2": {
+			"desc": "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"
+		},
+		"lblcontdtlsenq3": {
+			"desc": "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"
+		},
+		"lblfurtproc": {
+			"desc": "Further Procedure"
+		},
+		"orico_tab8": {
+			"desc": "Check Contract Details"
+		},
+		"orico_tab9": {
+			"desc": "Inspection Complete"
+		},
+		"lblappltls": {
+			"desc": "Application Details"
+		},
+		"lblcustfullname": {
+			"desc": "Customer FullName"
+		},
+		"lblpurchdtls": {
+			"desc": "Purchase Details"
+		},
+		"lblwithwithoutsuppserv": {
+			"desc": "With or without Supplementry Service"
+		},
+		"lblwithwithout": {
+			"desc": "Without"
+		},
+		"lblpmntdtls": {
+			"desc": "Payment Details"
+		},
+		"lblapplamnt": {
+			"desc": "Application Amount"
+		},
+		"lblnopmnts": {
+			"desc": "No. of Payments"
+		},
+		"lblmnthpymneplan": {
+			"desc": "Monthly Payment Plan"
+		},
+		"lblCount": {
+			"desc": "Count"
+		},
+		"lblyymm": {
+			"desc": "Year & Month"
+		},
+		"lblrepayamnt": {
+			"desc": "Repayment Amount(Yen)"
+		},
+		"lblinspectioncomp": {
+			"desc": "Inspection Complete"
+		},
+		"lblapplapprvd": {
+			"desc": "Your application has been approved."
+		},
+		"lblcontdtlsenq": {
+			"desc": "Contact details for enquiry"
+		},
+		"lblinfBankTrnsf": {
+			"desc": "Information for Online bank transfer"
+		},
+		"lblbanktrnsfrdtls": {
+			"desc": "Bank Transfer Details."
+		},
+		"lblinsptext1": {
+			"desc": "Thanks for choosing our services. Inspection of your application has been done."
+		},
+		"lblinsptext2": {
+			"desc": "Later on we will send you the documents mentioning details of the contract."
+		},
+		"lblinsptext3": {
+			"desc": "Regarding direct debit bank transfer, please refer to the following details."
+		},
+		"lblinsptext4": {
+			"desc": "Your receipt number is as follows."
+		}
+	},
+	"orico_jp": {
+		"lblTitle": {
+			"desc": "オリコ WebCreditアプリケーション"
+		},
+		"orico_tab1": {
+			"desc": "申込トップ"
+		},
+		"orico_tab2": {
+			"desc": "お支払いに関する入力"
+		},
+		"orico_tab3": {
+			"desc": "お支払い内容確認"
+		},
+		"orico_tab4": {
+			"desc": "基本情報の入力"
+		},
+		"orico_tab5": {
+			"desc": "その他の情報の入力"
+		},
+		"orico_tab6": {
+			"desc": "入力内容の確認"
+		},
+		"orico_tab7": {
+			"desc": "申込完了"
+		},
+		"lblcontractDtls": {
+			"desc": "契約内容確認"
+		},
+		"lblfrenchstorename": {
+			"desc": "フランチャイズ店名"
+		},
+		"lblapplidate": {
+			"desc": "申込年月日"
+		},
+		"lblrqstnum": {
+			"desc": "依頼番号"
+		},
+		"lblnumber": {
+			"desc": "回数"
+		},
+		"lblprodname": {
+			"desc": "商品（役務・権利）名（商標または製造者名）・種類・型式"
+		},
+		"lblquantity": {
+			"desc": "数量・回数・期間（カ月）"
+		},
+		"lblcashamnt": {
+			"desc": "現金価格（円）"
+		},
+		"lbltotprodcost": {
+			"desc": "商品価格合計"
+		},
+		"lbltotshipcost": {
+			"desc": "送料合計"
+		},
+		"lbltotcashamt": {
+			"desc": "現金価格合計（税込）"
+		},
+		"lblinfostoreshop": {
+			"desc": "販売店もしくはサービス提供店情報"
+		},
+		"lblservchrgrate": {
+			"desc": "分割払手数料率（実質年率）"
+		},
+		"lblservchrges": {
+			"desc": "支払琚置手数料率"
+		},
+		"lblproddtls": {
+			"desc": "商品情報について"
+		},
+		"lblimplant": {
+			"desc": "インプラント治療"
+		},
+		"lbldwnpmnt": {
+			"desc": "頭金"
+		},
+		"lblcrdtamnt": {
+			"desc": "クレジット金額（残金）"
+		},
+		"lbloricologin": {
+			"desc": "eオリコログイン"
+		},
+		"lblmemberid": {
+			"desc": "会員ID"
+		},
+		"lblpasswd": {
+			"desc": "パスワード"
+		},
+		"lblapplicantinfo": {
+			"desc": "申込者情報について"
+		},
+		"lblnamekanji": {
+			"desc": "氏名（漢字）"
+		},
+		"lbllsurname": {
+			"desc": "姓"
+		},
+		"lblfname": {
+			"desc": "氏名"
+		},
+		"lblnamekana": {
+			"desc": "氏名（カナ）"
+		},
+		"lblgender": {
+			"desc": "性別"
+		},
+		"lblDOB": {
+			"desc": "生年月日"
+		},
+		"lblyy": {
+			"desc": "年"
+		},
+		"lblmm": {
+			"desc": "月"
+		},
+		"lbldd": {
+			"desc": "日"
+		},
+		"lblwrkplcDtls": {
+			"desc": "お勤め先情報について"
+		},
+		"lblOccuType": {
+			"desc": "職種"
+		},
+		"lblOccuptn": {
+			"desc": "職種"
+		},
+		"lblindustrytype": {
+			"desc": "業種"
+		},
+		"lblindustry1": {
+			"desc": "業種1"
+		},
+		"lblindustry2": {
+			"desc": "業種2"
+		},
+		"lblwrkplace": {
+			"desc": "お勤め先"
+		},
+		"lblwrkplacekana": {
+			"desc": "お勤め先（カナ）"
+		},
+		"lblwrkplpostalcd": {
+			"desc": "お勤め先郵便番号"
+		},
+		"lblwrkplpost1": {
+			"desc": "000"
+		},
+		"lblwrkplpost2": {
+			"desc": "0000"
+		},
+		"lblwrkpladd": {
+			"desc": "お勤め先所在地"
+		},
+		"lblwrkpladd1": {
+			"desc": "Address-1"
+		},
+		"lblwrkpladd2": {
+			"desc": "Address-2"
+		},
+		"lblwrkpladd3": {
+			"desc": "Address-3"
+		},
+		"lblwrkpladd4": {
+			"desc": "Address-4"
+		},
+		"lblstoredtls": {
+			"desc": "販売店もしくはサービス提供店情報"
+		},
+		"lblfrenhiseadd": {
+			"desc": "住所"
+		},
+		"lblfrenhisephone": {
+			"desc": "電話番号"
+		},
+		"lblfrenhisefax": {
+			"desc": "FAX番号"
+		},
+		"lblrepname": {
+			"desc": "代表者名"
+		},
+		"lblfrenhisemail": {
+			"desc": "E-Mail"
+		},
+		"lblintlprocfee": {
+			"desc": "分割払手数料率（実質年率）"
+		},
+		"lblpmntprocfee": {
+			"desc": "支払琚置手数料率"
+		},
+		"lblmembid": {
+			"desc": "会員番号（加盟店）"
+		},
+		"lblOtheDtls": {
+			"desc": "その他の情報の入力"
+		},
+		"lblOccType": {
+			"desc": "職種"
+		},
+		"lblappcomp1": {
+			"desc": "お申込ありがとうございます。"
+		},
+		"lblappcomp2": {
+			"desc": "お申込を受付けました。オリコからの連絡をお待ちください。"
+		},
+		"lblappcomp3": {
+			"desc": "お問合せ時には、以下の受付番号が必要になります。"
+		},
+		"lblrcptno": {
+			"desc": "受付番号"
+		},
+		"lblcontdtlsenq1": {
+			"desc": "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"
+		},
+		"lblcontdtlsenq2": {
+			"desc": "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"
+		},
+		"lblcontdtlsenq3": {
+			"desc": "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"
+		},
+		"lblfurtproc": {
+			"desc": "今後の手続き"
+		},
+		"orico_tab8": {
+			"desc": "契約内容確認"
+		},
+		"orico_tab9": {
+			"desc": "審査完了"
+		},
+		"lblappltls": {
+			"desc": "お申込情報"
+		},
+		"lblcustfullname": {
+			"desc": "お客様氏名"
+		},
+		"lblpurchdtls": {
+			"desc": "ご購入内容"
+		},
+		"lblwithwithoutsuppserv": {
+			"desc": "付帯する役務の有無"
+		},
+		"lblwithwithout": {
+			"desc": "有/無"
+		},
+		"lblpmntdtls": {
+			"desc": "お支払い内容"
+		},
+		"lblapplamnt": {
+			"desc": "お申込み金額"
+		},
+		"lblnopmnts": {
+			"desc": "お支払回数"
+		},
+		"lblmnthpymneplan": {
+			"desc": "月ヶのお支払予定"
+		},
+		"lblCount": {
+			"desc": "回数"
+		},
+		"lblyymm": {
+			"desc": "年月"
+		},
+		"lblrepayamnt": {
+			"desc": "弁済金（円）"
+		},
+		"lblinspectioncomp": {
+			"desc": "ご購入内容"
+		},
+		"lblapplapprvd": {
+			"desc": "お申込みを承認させていただきました。"
+		},
+		"lblcontdtlsenq": {
+			"desc": "問い合わせ先"
+		},
+		"lblinfBankTrnsf": {
+			"desc": "オンライン口座振替申込のご案内"
+		},
+		"lblbanktrnsfrdtls": {
+			"desc": "Bank Transfer Details"
+		},
+		"lblinsptext1": {
+			"desc": "この度は利用いただき誠にありがとうございます。お申込みに関しました審査が完了いたしました。"
+		},
+		"lblinsptext2": {
+			"desc": "後日、契約の内容を明らかにする書面及び明細書を送付させていただきます。"
+		},
+		"lblinsptext3": {
+			"desc": "口座振替手続き等に関しましては、下記をご参照ください。"
+		},
+		"lblinsptext4": {
+			"desc": "お客様の受付番号は以下の通りです。"
+		}
+	},
+	"dentalformio_en": {
+		"lblheader": {
+			"desc": "Dental Web Credit"
+		}
+	},
+	"dentalformio_jp": {
+		"lblheader": {
+			"desc": "Dental アプリケーション"
+		}
+	}
+}

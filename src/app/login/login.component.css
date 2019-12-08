@@ -1,0 +1,111 @@
+body {
+    background: url("../../assets/image/Login_bg1.png")no-repeat;
+    background-size: cover !important;
+    background-attachment: fixed;
+    padding-top: 10%;
+}
+
+.side-title {
+    position: absolute;
+    left: 30px;
+    top: 17px;
+    color: #fff;
+    font-size: 25px;
+    text-shadow: 2px 3px 0 #969696, 1px 13px 5px #aba8a8;
+    background: transparent;
+    font-weight: bold;
+}
+.selectpicker {
+    position: absolute;
+    right: 30px;
+    top: 17px;
+}
+
+/*.lang-dropdown{
+    position:absolute;
+    right: 70px;
+    top:30px;
+}
+.lbl-language{
+    font-size:larger;
+    color:teal;
+    margin-right: 10px;
+}*/
+
+/*
+ * Page: Login & Register
+ * ----------------------
+ */
+.login-logo,
+.register-logo {
+    text-align: center;
+    font-weight: 300;
+    background: #20c4d0;
+    padding: 18px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+    .login-logo a,
+    .register-logo a {
+        color: #fff;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+.login-page,
+.register-page {
+    background: #d2d6de;
+}
+
+.login-box,
+.register-box {
+    width: 360px;
+    margin: 0% auto;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    /*box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);*/
+    -webkit-box-shadow: 6px 6px 9px -4px rgba(54,214,206,0.88);
+    -moz-box-shadow: 6px 6px 9px -4px rgba(54,214,206,0.88);
+    box-shadow: 6px 6px 9px -4px rgba(54,214,206,0.88);
+}
+
+.login_btn {
+    background: #20c4d0;
+    color: #fff;
+    border-color: #20c4d0;
+}
+
+@media (max-width: 768px) {
+    .login-box,
+    .register-box {
+        width: 90%;
+        margin-top: 20px;
+    }
+}
+
+.login-box-body,
+.register-box-body {
+    background: #fff;
+    padding: 20px;
+    border-top: 0;
+    color: #666;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+    .login-box-body .form-control-feedback,
+    .register-box-body .form-control-feedback {
+        color: #777;
+    }
+
+.login-box-msg,
+.register-box-msg {
+    margin: 0;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+}
+
+.social-auth-links {
+    margin: 10px 0;
+}

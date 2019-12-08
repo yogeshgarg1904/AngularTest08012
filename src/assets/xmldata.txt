@@ -1,0 +1,7 @@
+<address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="address.xsd">
+<name>John Smith</name>
+<street>109 Abbey Close</street>
+<city>Hayes</city>
+<country> UK</country>
+</address>

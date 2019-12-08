@@ -1,0 +1,7 @@
+﻿{
+"Eorder": 
+{
+"xsdid": "LO000000000000000001",
+"xsdvalue": "<xs:schema xmlns:xs='http://www.w3.org/2001/XMLSchema'>\r\n<xs:element name='address'>\r\n<xs:complexType>\r\n<xs:sequence>\r\n<xs:element name='name' type='xs:string'/>\r\n<xs:element name='street' type='xs:string'/>\r\n<xs:element name='city' type='xs:string'/>\r\n<xs:element name='country' type='xs:string'/>\r\n</xs:sequence>\r\n</xs:complexType>\r\n</xs:element>\r\n</xs:schema>"
+}
+}

@@ -1,0 +1,169 @@
+{
+	"menu_en": {
+		"lblLogo": {
+			"desc": "Yachin System"
+		},
+		"lblswitchLang": {
+			"desc": "Switch Language"
+		},
+		"DashBoard": {
+			"desc": "DashBoard"
+		},
+		"Masters": {
+			"desc": "Masters"
+		},
+		"Reports": {
+			"desc": "Reports"
+		},
+		"Setting": {
+			"desc": "Setting"
+		},
+		"Search": {
+			"desc": "Search"
+		},
+		"RuleEngine": {
+			"desc": "Rule Engine"
+		},
+		"Rule": {
+			"desc": "Rule Master"
+		},		
+		"Expression": {
+			"desc": "Rule Configuration"
+		},
+		"ExpressionCondition": {
+			"desc": "Condition Master"
+		},
+		"RuleSimulation": {
+			"desc": "Rule Simulation"
+		},
+		"User": {
+			"desc": "User"
+		},
+		"Admin": {
+			"desc": "Admin"
+		},
+		"myRole": {
+			"desc": "My Role"
+		},
+		"Capture": {
+			"desc": "Application Capture"
+		},
+		"FaxCapture": {
+			"desc": "Shopping Form"
+		},
+		"FormValidation": {
+			"desc": "Form Validation"
+		},
+		"OnlineInterfaces": {
+			"desc": "Online Interfaces"
+		},
+		"XSDValidation": {
+			"desc": "Layout Validation"
+		},
+		"InterfaceConfiguration": {
+			"desc": "Configuration"
+		},
+		"HandoffConfiguration": {
+			"desc": "Handoff Configuration"
+		},
+		"LetterConfiguration": {
+			"desc": "Letter Configuration"
+		},
+		"YachinForm": {
+			"desc": "Yachin Form"
+		},
+		"NewLineofBusiness": {
+			"desc": "New Line of Business"
+		},
+		"DesignNewForm": {
+			"desc": "Design New Form"
+		},
+		"myConfiguredForm": {
+			"desc": "Form Designer"
+		}
+		
+	},
+	"menu_jp": {
+		"lblLogo": {
+			"desc": "家賃 システム"
+		},
+		"lblswitchLang": {
+			"desc": "言語設定"
+		},
+		"DashBoard": {
+			"desc": "ダッシュボード"
+		},		
+		"Masters": {
+			"desc": "マスタ管理"
+		},
+		"Reports": {
+			"desc": "レポート"
+		},
+		"Setting": {
+			"desc": "セッティング"
+		},		
+		"Search": {
+			"desc": "検索"
+		},
+		"RuleEngine": {
+			"desc": "ルールエンジン"
+		},
+		"Expression": {
+			"desc": "式マスター"
+		},
+		"Rule": {
+			"desc": "ルールマスター"
+		},
+		"ExpressionCondition": {
+			"desc": "条件マスター"
+		},
+		"RuleSimulation": {
+			"desc": "ルールシミュレーション"
+		},
+		"User": {
+			"desc": "ユーザー"
+		},
+		"Admin": {
+			"desc": "管理者"
+		},
+		"myRole": {
+			"desc": "自分の役割"
+		},
+		"Capture": {
+			"desc": "キャプチャー"
+		},
+		"FaxCapture": {
+			"desc": "ファックスキャプチャ"
+		},
+		"FormValidation": {
+			"desc": "フォーム検証"
+		},
+		"OnlineInterfaces": {
+			"desc": "オンラインインタフェース"
+		},
+		"XSDValidation": {
+			"desc": "レイアウト 検証"
+		},
+		"InterfaceConfiguration": {
+			"desc": "インターフェイス設定"
+		},
+		"HandoffConfiguration": {
+			"desc": "ハンドオフ構成"
+		},
+		"LetterConfiguration": {
+			"desc": "レター設定"
+		},
+		"YachinForm": {
+			"desc": "家賃フォーム"
+		},
+		"NewLineofBusiness": {
+		"desc": "新業務ライン"
+		},
+		"Design New Form": {
+		"desc": "デザイン新フォーム"
+		},
+		"myConfiguredForm": {
+		"desc": "カスタム化フォーム"
+		} 
+	}	
+}

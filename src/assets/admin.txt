@@ -1,0 +1,30 @@
+﻿{
+	"usermst_en": {
+ 					"username": {"desc": "UserName"} ,
+					"emailid": {"desc": "EmailId"}  
+	 },
+
+	 "usermst_jp": {
+					"username": {"desc": "ユーザー名"} ,
+					"emailid": {"desc": "電子メールID"} 
+	 },
+	 ,
+	"usermstOp_en": {
+ 					"lbllanid": {"desc": "Lan Id"} ,
+					"lblusername": {"desc": "User Name"},  
+					"lblbranchname": {"desc": "Branch Name"},  
+					"lbluserrole": {"desc": "User role"},  
+					"lblemail": {"desc": "Email Id"},  
+					"lblactive": {"desc": "Active"}
+	 },
+
+	 "usermstOp_jp": {
+					"lbllanid": {"desc": "Lan Id"} ,
+					"lblusername": {"desc": "ユーザー名"},  
+					"lblbranchname": {"desc": "支店名"},  
+					"lbluserrole": {"desc": "ユーザー役割"},  
+					"lblemail": {"desc": "電子メールID"},  
+					"lblactive": {"desc": "アクティブ"} 
+	 },
+
+}

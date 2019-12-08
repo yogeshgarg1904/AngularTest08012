@@ -1,0 +1,2532 @@
+﻿{
+	"menu_en": {
+		"DashBoard": {
+			"desc": "DashBoard"
+		},
+		"Registration": {
+			"desc": "Registration"
+		},
+		"Request Access": {
+			"desc": "Request Access"
+		},
+		"Request Verification": {
+			"desc": "Request Verification"
+		},
+		"Pending Approvals": {
+			"desc": "Pending Approvals"
+		},
+		"Pending Action": {
+			"desc": "Pending Action"
+		},
+		"Request Tracking": {
+			"desc": "Request Tracking"
+		},
+		"Track Action": {
+			"desc": "Track Action"
+		},
+		"Track Request": {
+			"desc": "Track Request"
+		},
+		"My Approval": {
+			"desc": "My Approval"
+		},
+		"My Execution": {
+			"desc": "My Execution"
+		},
+		"My Approved": {
+			"desc": "My Approved"
+		},
+		"My Rejected": {
+			"desc": "My Rejected"
+		},
+		"My Withdraw": {
+			"desc": "My Withdraw"
+		},
+		"My Executed": {
+			"desc": "My Executed"
+		},
+		"My Execution": {
+			"desc": "My Execution"
+		},
+		"My Pushback": {
+			"desc": "My Pushback"
+		},
+		"Maintenance": {
+			"desc": "Maintenance"
+		},
+		"Masters": {
+			"desc": "Masters"
+		},
+		"Reports": {
+			"desc": "Reports"
+		},
+		"Setting": {
+			"desc": "Setting"
+		},
+
+		"Mailbox": {
+			"desc": "Mailbox"
+		},
+		"Help": {
+			"desc": "Help"
+		},
+		"Send For Approval": {
+			"desc": "Send For Approval"
+		},
+		"Pushback": {
+			"desc": "PushBack"
+		},
+		"Self Check": {
+			"desc": "Self Check"
+		},
+		"My Cancelled": {
+			"desc": "My Cancelled"
+		}
+	},
+	"menu_jp": {
+		"DashBoard": {
+			"desc": "ダッシュボード"
+		},
+		"Pending Action": {
+			"desc": "保留中のアクション"
+		},
+		"My Execution": {
+			"desc": "私の処刑"
+		},
+		"Request Tracking": {
+			"desc": "リクエストトラッキン"
+		},
+		"Registration": {
+			"desc": "登録"
+		},
+		"Request Access": {
+			"desc": "リクエストアクセス"
+		},
+		"Request Verification": {
+			"desc": "リクエストの確認"
+		},
+		"Pending Approvals": {
+			"desc": "Pending Approvals"
+		},
+		"Track Action": {
+			"desc": "保留中の承認"
+		},
+		"Track Request": {
+			"desc": "トラックリクエスト"
+		},
+		"My Approval": {
+			"desc": "私の承認"
+		},
+		"Send For Approval": {
+			"desc": "承認のために送信"
+		},
+		"Pushback": {
+			"desc": "プッシュバック"
+		},
+		"Self Check": {
+			"desc": "セルフチェック"
+		},
+		"My Approved": {
+			"desc": "私の処刑"
+		},
+		"My Rejected": {
+			"desc": "私の拒否"
+		},
+		"My Withdraw": {
+			"desc": "私の撤退"
+		},
+		"My Executed": {
+			"desc": "私の実行"
+		},
+		"My Cancelled": {
+			"desc": "私のキャンセル"
+		},
+		"My Pushback": {
+			"desc": "私のプッシュバック"
+		},
+		"Maintenance": {
+			"desc": "メンテナンス"
+		},
+		"Masters": {
+			"desc": "マスターズ"
+		},
+		"Reports": {
+			"desc": "レポート"
+		},
+		"Setting": {
+			"desc": "設定"
+		},
+		"Mailbox": {
+			"desc": "メールボックス"
+		},
+		"Help": {
+			"desc": "助けて"
+		}
+	},
+
+"selectcat_en": {
+   "lblNewRequest": {
+	  "desc": "New Request"     
+	      },
+
+    "lblModify/DeleteRequest": {
+	     "desc": "Modify/Delete Request"
+	      },
+
+	"lblSelecttheCategory": {
+	    "desc": "Select the Category"
+         },
+
+	"lblSelect": {
+	    "desc": "Select"
+	    }
+    },
+
+	
+"selectcat_jp": {
+   "lblNewRequest": {
+	  "desc": "新規"     
+	      },
+
+    "lblModify/DeleteRequest": {
+	     "desc": "更新・削除"
+	      },
+
+	"lblSelecttheCategory": {
+	    "desc": "申請フォーム"
+         },
+
+	"lblSelect": {
+	    "desc": "選択"
+	    }
+    },
+
+	"dialog_lan_en": {
+		"lblApprove": "Are you sure you want to Approve the request ?",
+		"lblPushback": "Are you sure you want to Pushback the request ?",
+		"lblDiscard": "Are you sure you want to Discard the request ?",
+		"msgreqsttype": "Request Type can not be blank.",
+		"msgdispname": "Display name can not be blank.",
+		"msgdesrddt": "Desired Date can not be blank.",
+		"msgpurpse": "Purpose can not be blank.",
+		"msgowner": "Owner name can not be blank.",
+		"msginvalid": "Invalid Request",
+		"msgarlready": "is already raised by",
+		"msgexist": "already exist",
+		"msgsave": "Do you want to save the data?",
+		"msgsubmit": "Request Submitted successfully",
+		"msgauthowner": "Please select only max. 5 users",
+		"msgnewdisp": "New Display name can not be blank.",
+		"msgexistsys": "already exist in the system",
+		"msgremove": "Do you want to remove the data?",
+		"msgdistlist": "Distribution list can not be blank.",
+		"msgemailid": "Email Id can not be blank.",
+		"msgcustadd": "Custom Address can not be blank.",
+		"msgsysname": "System Name can not be blank",
+		"msguserpro": "Please select a user profile",
+		"msgselreqst": "Please select Request Type",
+		"msgrsn": "Please provide a reason for this request",
+		"msgchngeaccess": "Do you want to change access control?",
+		"msgfldrname": "Folder Name can not be blank",
+		"msgaccesscntrl": "Access Control name can not be blank.",
+		"msgrecrdqueue": "Record already exists in the queue.",
+		"msgcantrem": "Cannot remove access for",
+		"msgcntrllist": "Access control list can not be empty.",
+		"msgacctstmt": "Please indicate that you have read  the Accountability Statement.",
+		"msgfldrtype": "Folder Type can not be blank.",
+		"msgsubowner": "Sub Owner name can not be blank.",
+		"msgsize": "Size can not be blank.",
+		"msginvalidreq": "InValid Request, Request is already raised",
+		"msgreqright": "Requested rights already exists for the user",
+		"msgsysroleid": "Invalid Request, System Role Map Id is invalid",
+		"msgInvaliduser": "Invalid Request, User is already mapped to this system role.",
+		"msgmultirole": "Invalid Request, Multiple roles can not be assigned for the selected system.",
+		"msgsysmodreq": "For System you cannot raise modification or deletion request.",
+		"msgdata": "Please provide data for",
+		"msgfield": "field",
+		"msgsys": "Please select a system first",
+		"msgclear": "Are you sure you want to Clear data?",
+		"msgselsys": "Please select a System",
+		"msgselrole": "Please select a Role",
+		"msgdiffsys": "Are you sure, you want to select a different system?",
+		"msguser": "Please select a User first",
+		"msgsysaccess": "Please select System Access Type",
+		"msgsysname": "Please select System Name",
+		"msgdelrole": "Please select the role to be deleted.",
+		"msgprivacc": "Please select a Privilege Account",
+		"msgprimown": "Please select a Primary Owner",
+		"msgpurp": "Please enter a purpose",
+		"msgdisplayname": "Please enter Display Name",
+		"msgIANumber": "Please enter IA Number",
+		"msgprivlist": "Please select a Privilege from List",
+		"msgreqmod": "Request already raised for modification",
+		"msgprivaccsel": "Please select a Privilege Account",
+		"msgselprimown": "Please select New Primary Owner"
+
+
+
+	},
+	"dialog_lan_jp": {
+		"lblApprove": "Are you sure you want to Approve the request ?",
+		"lblPushback": "Are you sure you want to Pushback the request ?",
+		"lblDiscard": "Are you sure you want to Discard the request ?",
+		"msgreqsttype": "申請区分を入力してください.",
+		"msgdispname": "表示名を入力してください。",
+		"msgdesrddt": "適用希望日を入力してください。",
+		"msgpurpse": "用途を入力してください。",
+		"msgowner": "所有者名を入力してください。",
+		"msginvalid": "無効な申請です。",
+		"msgarlready": "は、既にXXX(User Name)により申請されています。",
+		"msgexist": "既に存在します。",
+		"msgsave": "データを保存しますか？",
+		"msgsubmit": "正常に申請されました。",
+		"msgauthowner": "最大5人のユーザを選択してください。",
+		"msgnewdisp": "新表示名を入力してください。",
+		"msgexistsys": "は既にシステムに設定されています。",
+		"msgremove": "データを削除しますか？",
+		"msgdistlist": "配布リストを入力してください。",
+		"msgemailid": "Email IDを入力してください。",
+		"msgcustadd": "カスタムアドレスを入力してください。",
+		"msgsysname": "システム名を入力してください。",
+		"msguserpro": "ユーザプロファイルを選択してください。",
+		"msgselreqst": "申請区分を入力してください。",
+		"msgrsn": "申請理由を入力してください。",
+		"msgchngeaccess": "アクセス権を変更しますか？",
+		"msgfldrname": "フォルダ名を入力してください。",
+		"msgaccesscntrl": "アクセス権名を入力してください。",
+		"msgrecrdqueue": "レコードは既にキューに存在します。",
+		"msgcantrem": "のアクセスを削除できません。",
+		"msgcntrllist": "アクセス制限リストを入力してください。",
+		"msgacctstmt": "説明責任に関する声明を確認してください。",
+		"msgfldrtype": "フォルダタイプを入力してください。",
+		"msgsubowner": "副所有者名を入力してください。",
+		"msgsize": "サイズを入力してください。",
+		"msginvalidreq": "既に申請が存在します。",
+		"msgreqright": "申請された権限が既に存在します。",
+		"msgsysroleid": "システムロールMAPが不正です。",
+		"msgInvaliduser": "ユーザは既に選択したシステムロールを保持しています。",
+		"msgmultirole": "複数ロールは選択したシステムに設定できません。",
+		"msgsysmodreq": "システムに対して、削除・変更申請できません。",
+		"msgdata": "の日付を設定してください。",
+		"msgfield": "フィールド",
+		"msgsys": "システムを選択してください。",
+		"msgclear": "データをクリアしますか？",
+		"msgselsys": "システムを選択してください。",
+		"msgselrole": "ロールを選択してください。",
+		"msgdiffsys": "システムを選択しなおしますか？",
+		"msguser": "ユーザーを入力してください。",
+		"msgsysaccess": "システムアクセスタイプを選択してください。",
+		"msgsysname": "システム名を入力してください。",
+		"msgdelrole": "削除するロールを選択してください。",
+		"msgprivacc": "特殊アカウントを選択してください。",
+		"msgprimown": "主所有者を選択してください。",
+		"msgpurp": "用途を入力してください。",
+		"msgdisplayname": "表示名を入力してください。",
+		"msgIANumber": "IA番号を入力してください。",
+		"msgprivlist": "特殊フォームリストを選択してください。",
+		"msgreqmod": "既に変更申請が存在します。",
+		"msgprivaccsel": "特殊アカウントを選択してください。",
+		"msgselprimown": "主所有者を選択してください。"
+	   
+	},
+
+	"selfInformation_en": {
+		"lblRequestFor": {
+			"desc": "Request For"
+		},
+		"lblSelf": {
+			"desc": "Self"
+		},
+		"lblOthers": {
+			"desc": "Others"
+		},
+		"lblLanID": {
+			"desc": "Lan ID"
+		},
+		"lblDesignation": {
+			"desc": "Designation"
+		},
+		"lblEmailID": {
+			"desc": "Email ID"
+		},
+		"lblEmployeeName": {
+			"desc": "Employee Name"
+		},
+		"lblDivision": {
+			"desc": "Division"
+		}
+	},
+	"selfInformation_jp": {
+	     "lblRequestFor": {
+			"desc": "のリクエスト"
+		},
+		"lblSelf": {
+			"desc": "自己"
+		},
+		"lblOthers": {
+			"desc": "その他"
+		},
+		"lblLanID": {
+			"desc": "Lan ID"
+		},
+		"lblDesignation": {
+			"desc": "指定"
+		},
+		"lblEmailID": {
+			"desc": "電子メールID"
+		},
+		"lblEmployeeName": {
+			"desc": "従業員名"
+		},
+		"lblDivision": {
+			"desc": "分割"
+		}
+	},
+	"category_en": {
+		"lblSystemName": {
+			"desc": "System Name"
+		}
+	},
+	"category_jp": {
+	     "lblSystemName": {
+			"desc": "のリクエスト"
+		}
+	},
+"distributionList_en": {
+    "lblRequestType": {
+		   "desc": "Request Type"
+		 },
+
+    "lblDisplayName": {
+	      "desc": "Display Name"
+	     },
+
+	"lblDesiredDt": {
+	     "desc": "Desired Date"
+	     },
+
+	"lblPurpose": {
+	   "desc": "Purpose"
+	     },
+
+    "lblOwner": {
+	  "desc": "Owner"
+	    },
+
+    "lblOwnerEmail": {
+	    "desc": "Owner Email Domain"
+	     },
+
+	"lblAuthorizedOwner": {
+	   "desc": "Authorized Owner"
+	     },
+
+	"lblMailList": {
+	    "desc": "Mailing List"
+	      },
+
+    "lblSecGrp[WithoutMail]": {
+	      "desc": "Security Group [Without Mail] "
+	       },
+
+	"lblSecGroup[WithMail]": {
+	     "desc": "Security Group [With Mail] " 
+     	 },
+
+  "lblReqstDetls": {
+       "desc": "Request Details"
+      },
+
+"lblOwnerDetls": {
+     "desc": "Owner Details"
+   },
+
+"lblbtnSave": {
+    "desc": "Save"
+   },
+
+"lblbtnAdd": {
+   "desc": "Add"
+  },
+
+ "lblbtnClose": {
+    "desc": "Close"
+  },
+
+ "lblbtnClear": {
+    "desc": "Clear"   
+  },
+
+ "lblYes": {
+  "desc": "Yes"
+  },
+
+ "lblbtnOk": {
+  "desc": "Ok"
+  },
+  
+  "lblDisplayNameNote": {
+    "desc": "**Please enter within 30 characters"
+  },
+ 
+ "lblAuthorizedOwnerNote": {
+    "desc": "**Please enter max. 5 users"
+    },
+
+  "lblLanID": {
+     "desc": "LAN ID"   
+   },
+   
+  "lblOwnerName": {
+    "desc": "Owner Name"
+    }
+ },
+
+"distributionList_jp":{
+	 "lblRequestType": {
+		   "desc": "申請区分"
+		   },
+
+	 "lblDisplayName": {
+	        "desc": "表示名"
+	  },
+
+	"lblDesiredDt": {
+	     "desc": "適用希望日"
+	  },
+
+	"lblPurpose": {
+	        "desc": "用途"
+	    },
+
+ "lblOwner": {
+	  "desc": "所有者"
+	 },
+
+  "lblOwnerEmail": {
+	  "desc": "所有者メールドメイン"
+	  },
+
+ "lblAuthorizedOwner": {
+	   "desc": "更新権限者"
+	  },
+
+  "lblMailList": {
+	   "desc": "メーリングリスト"
+	  },
+
+ "lblSecGrp[WithoutMail]": {
+	 "desc": "セキュリティグループ [メール無し]"
+	   },
+
+ "lblSecGroup[WithMail]": {
+	 "desc": "セキュリティグループ [メール有り] " 
+      },
+
+ "lblReqstDetls": {
+       "desc": "申請詳細"
+      },
+
+  "lblOwnerDetls": {
+     "desc": "所有者詳細"
+   },
+
+  "lblbtnSave": {
+    "desc": "保存"
+  },
+
+ "lblbtnAdd": {
+     "desc": "追加"
+   },
+
+ "lblbtnClose": {
+     "desc": "閉じる"
+   },
+
+ "lblbtnClear": {
+    "desc": "クリア"   
+  },
+
+ "lblYes": {
+  "desc": "はい"
+  },
+
+"lblbtnOk": {
+  "desc": "OK"
+  },
+
+"lblDisplayNameNote": { 
+   "desc": "**30文字以内で入力してください"
+  },
+ 
+ "lblAuthorizedOwnerNote": {
+    "desc": "**最大5レコードまで"
+    },
+
+  "lblLanID": {
+     "desc": "LAN ID"   
+   },
+   
+  "lblOwnerName": {
+    "desc": "所有者名"
+    }
+ },
+
+"distributionListModify_en":{
+     "lblSelDistributnLst": {
+	      "desc": "Select Distribution List"   
+		 },
+
+	"lblRequestType": {
+	     "desc": "Request Type"
+	    },
+
+	"lblModify": {
+	    "desc": "Modify"
+	   },
+
+	"lblDelete": {
+	   "desc": "Delete"
+	  },
+ 
+   "lblRequestFor": {
+       "desc": "Request For"
+      },
+
+	"lblMailList": {
+	    "desc": "Mailing List"
+	    },
+
+   "lblSecGrp[WithoutMail]": {
+	   "desc": "Security Group [Without Mail]"
+	       },
+
+	"lblSecGroup[WithMail]": {
+	     "desc": "Security Group [With Mail]" 
+     	  },
+
+	"lblDesiredDt": {
+	     "desc": "Desired Date"
+	     },
+
+    "lblExistDisplayName": {
+	    "desc": "Existing Display Name"
+	   },
+
+     "lblNewDisplayName": {
+	     "desc": "New Display Name"
+	   },
+
+	"lblExistOwner": {
+	    "desc": "Existing Owner"
+	   },
+     
+	 "lblNewOwner":{
+	    "desc": "New Owner"
+	   },
+
+	"lblExistOwnerEmail": {
+	     "desc": "Existing Owner Email Domain"
+	     },
+    
+	"lblNewOwnerEmail": {
+	     "desc": "New Owner Email Domain"
+	    },
+
+	"lblAuthorizedOwner": {
+	    "desc": "Authorized Owner"
+	     },
+
+	"lblNewAuthorizedOwner": {
+	    "desc": "New Authorized Owner"
+	    },
+
+	"lblPurpose": {
+	   "desc":"Purpose"
+	   },
+
+	"lblDistributionLstDtls": {
+	     "desc":" Distribution List Details"
+	    },
+
+	"lblReqstDetls": {
+	    "desc":"Request Details"
+	   },
+
+	"lblOwnerDetls": {
+	  "desc": "Owner Details"
+	  },
+
+	"lblbtnAdd": {
+	   "desc": "Add"
+	  },
+
+"lblbtnSave": {
+     "desc": "Save"
+	 },
+
+"lblbtnClose": {
+    "desc": "Close"
+    },
+
+"lblbtnClear":{
+    "desc": "Clear"   
+  },
+
+"lblEmployeeList":{ 
+     "desc": "Employee List"
+   },
+
+"lblDisplayNameNote": {
+    "desc": "**Please enter within 30 characters"
+  },
+
+   "lblAuthorizedOwnerNote": {
+    "desc": "**Please enter max. 5 users"
+    },
+
+  "lblLanID": {
+     "desc": "LAN ID"   
+   }
+ 
+},
+
+"distributionListModify_jp":{
+    "lblSelDistributnLst": {
+	       "desc": "配布リスト"   
+		   },
+
+    "lblRequestType": {
+	     "desc": "申請区分"
+	    },
+
+	"lblModify": {
+	    "desc": "更新"
+	     },
+    
+	"lblDelete": {
+	   "desc": "削除"
+	  },
+
+  "lblRequestFor": {
+       "desc": "申請タイプ"
+      },
+
+ "lblMailList": {
+     "desc": "メーリングリスト"
+	   },
+
+ "lblSecGrp[WithoutMail]": {
+	      "desc": "セキュリティグループ [メール無し]"
+	       },
+
+ "lblSecGroup[WithMail]": {
+	  "desc": "セキュリティグループ [メール有り] " 
+     	 },
+
+"lblDesiredDt": {
+	  "desc": "適用希望日"
+	     },
+
+ "lblExistDisplayName": {
+	   "desc": "現表示名"
+	  },
+
+ "lblNewDisplayName": {
+	   "desc": "新表示名"
+	   },
+
+"lblExistOwner": {
+	"desc": "現所有者名"
+	  },
+
+"lblNewOwner": {
+	"desc": "新所有者"
+	   },
+
+"lblExistOwnerEmail": {
+	 "desc": "現所有者メールドメイン "
+	     },
+    
+"lblNewOwnerEmail": {
+	 "desc": "新所有者メールドメイン "
+	   },
+
+"lblAuthorizedOwner": {
+	"desc": "更新権限者"
+	   },
+
+"lblNewAuthorizedOwner": {
+	 "desc": "新更新権限者"
+	   },
+
+"lblPurpose": {
+    "desc": "用途"
+	 },
+
+"lblDistributionLstDtls": {
+	"desc": "配布リスト詳細"
+	  },
+
+"lblReqstDetls": {
+	 "desc": "申請詳細"
+	   },
+
+"lblOwnerDetls": {
+    "desc": "所有者詳細"
+     },
+
+"lblbtnAdd": {
+	   "desc": "追加"
+	  },
+
+"lblbtnSave": {
+     "desc": "保存"
+	 },
+
+"lblbtnClose": {
+    "desc": "閉じる"
+    },
+
+"lblbtnClear": {
+    "desc": "クリア"   
+  },
+
+"lblEmployeeList": {
+     "desc": "従業員リスト"
+    },
+
+"lblYes": {
+  "desc": "はい"
+  },
+
+"lblbtnOk": {
+  "desc": "OK"
+   },
+
+"lblDisplayNameNote": { 
+   "desc": "**30文字以内で入力してください"
+  },
+ 
+ "lblAuthorizedOwnerNote": {
+    "desc": "**最大5レコードまで"
+    },
+
+  "lblLanID": {
+     "desc": "LAN ID"   
+   }
+ },
+
+"mailAdd_en":{
+   "lblReqstDetls": {
+     "desc": "Request Details"
+     },
+
+  "lblDisplayName": {
+      "desc": "Display Name"
+   },
+
+ "lblEmailID": {
+     "desc": "Email Address"
+    },
+
+"lblOwnerDetls": {
+     "desc": "Owner Details"
+   },
+
+"lblbtnSave": {
+    "desc": "Save"
+   },
+
+"lblbtnClose": {
+    "desc": "Close"
+  },
+
+"lblPurpose": {
+     "desc": "Purpose"
+	   },
+
+"lblOwner": {
+    "desc": "Owner"
+	 },
+
+"lblbtnClear": {
+    "desc": "Clear"   
+   },
+
+"lblYes": {
+  "desc": "Yes"
+  },
+
+"lblbtnOk": {
+  "desc": "Ok"
+   }
+ },
+
+"mailAdd_jp":{
+ "lblReqstDetls": {
+     "desc": "申請詳細"
+     },
+
+  "lblDisplayName": {
+      "desc": "表示名"
+   },
+
+ "lblEmailID": {
+     "desc": "電子メールアドレス"
+    },
+
+"lblOwnerDetls": {
+     "desc": "所有者詳細"
+   },
+
+"lblbtnSave": {
+    "desc": "保存"
+   },
+
+"lblbtnClose": {
+    "desc": "閉じる"
+  },
+
+"lblPurpose": {
+     "desc": "用途"
+	   },
+
+"lblOwner": {
+    "desc": "所有者"
+	 },
+
+"lblbtnClear": {
+    "desc": "クリア"   
+   },
+
+"lblYes": {
+  "desc": "はい"
+  },
+
+"lblbtnOk": {
+  "desc": "OK"
+  }
+ },
+
+"mailAddMod_en":{
+   "lblRequestType": {
+      "desc": "Request Type"
+   },
+
+  "lblSelectCustmAdd": {
+     "desc": "Select Custom Address"
+    },
+
+"lblModify": {
+   "desc": "Modify"
+  },
+
+"lblDelete": {
+    "desc": "Delete"
+  },
+
+"lblReqstDetls": {
+    "desc": "Request Details"
+  },
+
+"lblDisplayName": {
+     "desc": "Display Name"
+   },
+
+"lblEmailID": {
+    "desc": "Email Address"
+    },
+
+"lblOwner": {
+    "desc": "Owner"
+	 },
+
+"lblPurpose": {
+     "desc": "Purpose"
+	   },
+
+"lblEditDetails":{
+    "desc": "Edit Details"
+  },
+
+"lblNewDisplayName": {
+   "desc": "New Display Name"
+  },
+
+"lblNewEmailAdd": {
+   "desc": "New Email Address"
+  },
+
+"lblNewOwner": {
+    "desc": "New Owner"
+  },
+
+"lblbtnSave": {
+    "desc": "Save"
+   },
+
+"lblbtnClose": {
+    "desc": "Close"
+  },
+
+"lblbtnClear": {
+    "desc": "Clear"   
+  },
+
+"lblYes": {
+  "desc": "Yes"
+  },
+
+"lblbtnOk": {
+  "desc": "Ok"
+  }
+},
+
+"mailAddMod_jp":{
+   "lblRequestType": {
+       "desc": "申請区分"
+      },
+
+"lblSelectCustmAdd": {
+     "desc": "カスタムアドレス選択"
+    },
+
+"lblModify": {
+    "desc": "更新"
+   },
+
+"lblDelete": {
+   "dsec": "削除"
+    },
+ 
+ "lblReqstDetls": {
+     "desc": "申請詳細"
+   },
+
+"lblDisplayName": {
+     "desc": "表示名"
+   },
+
+"lblEmailID": {
+     "desc": "新規メールアドレス"
+    },
+
+"lblOwner": {
+    "desc": "所有者"
+	 },
+
+"lblPurpose": {
+     "desc": "用途"
+	   },
+
+"lblEditDetails": {
+    "desc": "詳細編集"
+  },
+
+"lblNewDisplayName": {
+   "desc": "新表示名"
+  },
+
+"lblNewEmailAdd": {
+   "desc": "新規メールアドレス"
+  },
+
+"lblNewOwner": {
+    "desc": "新所有者"
+  },
+
+"lblbtnSave": {
+    "desc": "保存"
+   },
+
+"lblbtnClose": {
+    "desc": "閉じる"
+  },
+
+"lblbtnClear": {
+    "desc": "クリア"   
+   },
+
+"lblYes": {
+  "desc": "はい"
+  },
+
+"lblbtnOk": {
+  "desc": "OK"
+  }
+},
+
+"sharedDriveWeb_en" :{
+   "lblReqstDetls": {
+     "desc": "Request Details"
+   },
+
+ "lblSelAccessCntrl": {
+     "desc": "Select Access Control"
+    },
+
+"lblFolderName": {
+  "desc": "Folder Name"
+  },
+
+"lblOwnerName": {
+    "desc": "Owner Name"
+     },
+
+"lblSubOwnerName": {
+    "desc": "Sub Owner Name"
+	},
+
+"lblReason": {
+    "desc": "Reason"
+    },
+
+"lblAccessCntrlDtls": {
+     "desc": "Access Control Details"
+    },
+
+"lblRequestType": {
+     "desc": "Request Type"
+    },
+
+"lblAdd": {
+   "desc": "Add"
+   },
+
+"lblRemove": {
+    "desc": "Remove"
+   },
+
+"lblControlType": {
+    "desc": "Control Type"  
+    },
+
+"lblReadOnly": {
+    "desc": "Read Only"
+    },
+
+"lblModify": {
+     "desc": "Modify"
+    },
+
+"lblAccessCntrl": {
+     "desc": "Access Control"
+     },
+
+"lblSecGrp": {
+    "desc": "Security Group"
+    },
+ 
+ "lblPrivilAcc": {
+     "desc": "Privilege Account"
+      },
+
+"lblEmployeeName": {
+    "desc": "Employee Name"
+     },
+
+"lblSecGrp/EmpName/PrivilAcc": {
+      "desc": "Security Group/Emp Name/Privilege Acc"
+      },
+
+"lblAccessType": {
+    "desc": "Access Type"
+    },
+
+"lblAction": {
+    "desc": "Action"
+     },
+
+"lblAccntabilityStatmnt": {
+      "desc": "Accountability Statement"
+      },
+
+"lblbtnSave": {
+    "desc": "Save"
+    },
+
+"lblbtnClear": {
+    "desc": "Clear"
+    },
+
+"lblbtnClose": {
+    "desc": "Close"
+     },
+
+"lblYes": {
+    "desc": "Yes"
+    },
+
+"lblbtnOk": {
+    "desc": "Ok"
+   }
+ },
+
+"sharedDriveWeb_jp" :{
+   "lblReqstDetls": {
+     "desc": "申請詳細"
+   },
+
+ "lblSelAccessCntrl": {
+     "desc": "フォルダ名"
+    },
+
+"lblFolderName": {
+  "desc": "フォルダ名"
+  },
+
+"lblOwnerName": {
+    "desc": "所有者名"
+     },
+
+"lblSubOwnerName": {
+    "desc": "副管理者名"
+	},
+
+"lblReason": {
+    "desc": "用途"
+    },
+
+"lblAccessCntrlDtls": {
+     "desc": "アクセスコントロール詳細"
+    },
+
+"lblRequestType": {
+     "desc": "申請区分"
+    },
+
+"lblAdd": {
+   "desc": "追加"
+   },
+
+"lblRemove": {
+    "desc": "削除"
+   },
+
+"lblControlType": {
+    "desc": "コントロールタイプ"  
+    },
+
+"lblReadOnly": {
+    "desc": "読み取りのみ"
+    },
+
+"lblModify": {
+     "desc": "更新"
+    },
+
+"lblAccessCntrl": {
+     "desc": "アクセスコントロール"
+     },
+
+"lblSecGrp": {
+    "desc": "セキュリティグループ"
+    },
+ 
+ "lblPrivilAcc": {
+     "desc": "特殊アカウント"
+      },
+
+"lblEmployeeName": {
+    "desc": "従業員名"
+     },
+
+"lblSecGrp/EmpName/PrivilAcc": {
+      "desc": "セキュリティグループ/従業員名/特殊アカウント"
+      },
+
+"lblAccessType": {
+    "desc": "アクセスタイプ"
+    },
+
+"lblAction": {
+    "desc": "処理"
+     },
+
+"lblAccntabilityStatmnt": {
+      "desc": "Share Driveアクセス権限付与に関する同意書"
+      },
+
+"lblbtnSave": {
+    "desc": "保存"
+    },
+
+"lblbtnClear": {
+    "desc": "クリア"
+    },
+
+"lblbtnClose": {
+    "desc": "閉じる"
+     },
+
+"lblYes": {
+    "desc": "はい"
+    },
+
+"lblbtnOk": {
+    "desc": "OK"
+   }
+ },
+
+"sharedFileNew_en": {
+   "lblReqstDetls": {
+     "desc": "Request Details"
+     },
+  
+ "lblFolderType": {
+     "desc": "Folder Type"
+	 },
+
+ "lblShared (Share Drive)": {
+     "desc": "Shared (Share Drive)"
+       },
+
+"lblPersonal(M Drive)": {
+     "desc": "Personal(M Drive)"
+       },
+
+"lblFolderName": {
+    "desc": "Folder Name"
+      },
+
+"lblOwnerName": {
+     "desc": "Owner Name"
+     },
+
+"lblSubOwnerName": {
+     "desc": "SubOwner Name"
+      },
+
+"lblSize": {
+   "desc": "Size"
+   },
+
+"lblDesiredDt": {
+   "desc": "Desired Date"
+     },
+
+"lblPurpose": {
+    "desc": "Purpose"
+     },
+
+"lblAccntabilityStatmnt": {
+     "desc": "Accountability Statement"
+      },
+
+"lblbtnSave": {
+    "desc": "Save"
+    },
+
+"lblbtnClear": {
+    "desc": "Clear"
+    },
+
+"lblbtnClose": {
+     "desc": "Close"
+    },
+
+"lblYes": {
+    "desc": "Yes"
+   },
+
+"lblbtnOk": {
+    "desc": "Ok"
+    },
+	
+ "lblSizeNote": {
+    "desc": "(*It is appreciated if only the urgently needed amount is requested. the file server's resources are shared with other bank staff members and groups)"
+   }
+
+},
+
+"sharedFileNew_jp": {
+   "lblReqstDetls": {
+     "desc": "申請詳細"
+     },
+  
+ "lblFolderType": {
+     "desc": "フォルダタイプ"
+	 },
+
+ "lblShared (Share Drive)": {
+     "desc": "共用(Share Drive)"
+       },
+
+"lblPersonal(M Drive)": {
+     "desc": "個人用(My Drive)"
+       },
+
+"lblFolderName": {
+    "desc": "フォルダ名"
+      },
+
+"lblOwnerName": {
+     "desc": "所有者名"
+     },
+
+"lblSubOwnerName": {
+     "desc": "副管理者名"
+      },
+
+"lblSize": {
+   "desc": "サイズ"
+   },
+
+"lblDesiredDt": {
+   "desc": "適用希望日"
+     },
+
+"lblPurpose": {
+    "desc": "用途"
+     },
+
+"lblAccntabilityStatmnt": {
+     "desc": "Share Driveアクセス権限付与に関する同意書"
+      },
+
+"lblbtnSave": {
+    "desc": "保存"
+    },
+
+"lblbtnClear": {
+    "desc": "クリア"
+    },
+
+"lblbtnClose": {
+     "desc": "閉じる"
+    },
+
+"lblYes": {
+    "desc": "はい"
+   },
+
+"lblbtnOk": {
+    "desc": "OK"
+    },
+ 
+ "lblSizeNote": {
+    "desc": "*ネットワークドライブは銀行全体の共有のリソースとなっておりますので、大容量の拡張についてはご遠慮頂けます様ご協力お願い致します。"
+    }
+},
+
+"sharedFileMod_en":{
+   "lblReqstDetls": {
+     "desc": "Request Details"
+     },
+
+"lblRequestType": {
+    "desc": "Request Type"
+    },
+
+"lblModify": {
+    "desc": "Modify"
+   },
+
+"lblDelete": {
+   "desc": "Delete"
+  },
+
+"lblFolderType": { 
+     "desc": "Folder Type"
+      },
+
+"lblShared (Share Drive)": {
+     "desc": "Shared (Share Drive)"
+       },
+
+"lblPersonal(M Drive)": {
+     "desc": "Personal(M Drive)"
+       },
+
+"lblFolderName": {
+    "desc": "Folder Name"
+   },
+
+"lblNewFolderName": {
+     "desc": "New Folder Name"
+     },
+
+"lblOwnerName": {
+    "desc": "Owner Name"
+    },
+
+"lblNewOwnName": {
+     "desc": "New Owner Name"
+    },
+
+"lblSubOwnerName": {
+      "desc": "SubOwner Name"
+   },
+
+"lblNewSubOwnerName": {
+       "desc": "New SubOwner Name"
+     },
+
+"lblAllocatedSize": {
+      "desc": "Allocated Size"
+       },
+
+"lblNewAllocSize": {
+    "desc": "New Allocated Size"
+    },
+
+"lblDesiredDt": {
+   "desc": "Desired Date"
+     },
+
+"lblPurpose": {
+    "desc": "Purpose"
+     },
+
+"lblAccntabilityStatmnt": {
+     "desc": "Accountability Statement"
+      },
+
+"lblbtnSave": {
+    "desc": "Save"
+    },
+
+"lblbtnClear": {
+    "desc": "Clear"
+    },
+
+"lblbtnClose": {
+     "desc": "Close"
+    },
+
+"lblYes": {
+    "desc": "Yes"
+   },
+
+"lblbtnOk": {
+    "desc": "Ok"
+    },
+ 
+  "lblSizeNote": {
+    "desc": "(*It is appreciated if only the urgently needed amount is requested. the file server's resources are shared with other bank staff members and groups)"
+   }
+
+},
+
+"sharedFileMod_jp":{
+   "lblReqstDetls": {
+     "desc": "申請詳細"
+     },
+
+"lblRequestType": {
+    "desc": "申請区分"
+    },
+
+"lblModify": {
+    "desc": "更新"
+   },
+
+"lblDelete": {
+   "desc": "削除"
+  },
+
+"lblFolderType": { 
+     "desc": "フォルダタイプ"
+      },
+
+"lblShared (Share Drive)": {
+     "desc": "共用(Share Drive)"
+       },
+
+"lblPersonal(M Drive)": {
+     "desc": "個人用(My Drive)"
+       },
+
+"lblFolderName": {
+    "desc": "フォルダ名"
+   },
+
+"lblNewFolderName": {
+     "desc": "新フォルダ名"
+     },
+
+"lblOwnerName": {
+    "desc": "所有者名"
+    },
+
+"lblNewOwnName": {
+     "desc": "新所有者名"
+    },
+
+"lblSubOwnerName": {
+      "desc": "副管理者名"
+   },
+
+"lblNewSubOwnerName": {
+       "desc": "新副管理者名"
+     },
+
+"lblAllocatedSize": {
+      "desc": "容量"
+       },
+
+"lblNewAllocSize": {
+    "desc": "新容量"
+    },
+
+"lblDesiredDt": {
+   "desc": "適用希望日"
+     },
+
+"lblPurpose": {
+    "desc": "用途"
+     },
+
+"lblAccntabilityStatmnt": {
+     "desc": "Share Driveアクセス権限付与に関する同意書"
+      },
+
+"lblbtnSave": {
+    "desc": "保存"
+    },
+
+"lblbtnClear": {
+    "desc": "クリア"
+    },
+
+"lblbtnClose": {
+     "desc": "閉じる"
+    },
+
+"lblYes": {
+    "desc": "はい"
+   },
+
+"lblbtnOk": {
+    "desc": "OK"
+    },
+
+"lblSizeNote": {
+    "desc": "*ネットワークドライブは銀行全体の共有のリソースとなっておりますので、大容量の拡張についてはご遠慮頂けます様ご協力お願い致します。"
+    }
+
+ },
+
+"remoteAcc_en":{
+   "lblUAG&APMDtls": {
+	  "desc": "UAG & APM Details"  
+     },
+  
+  "lblRequestType": {
+      "desc": "Request Type"
+        },
+
+   "lblEnable": {
+       "desc": "Enable"
+       },
+
+	"lblDisable": {
+	    "desc": "Disable"
+	    },
+
+	"lblRsnforReqst": {
+	     "desc": "Reason for Request"
+	    },
+
+	"lblReason": {
+	    "desc": "Reason"
+	     },
+
+	"lblbtnSave": {
+	    "desc": "Save"
+	     },
+
+	"lblbtnClear": {
+	     "desc": "Clear"
+	     },
+ 
+    "lblbtnClose": {
+        "desc": "Close"
+       },
+
+    "lblYes": {
+       "desc": "Yes"
+     },
+
+    "lblbtnOk": {
+       "desc": "Ok"
+      },
+
+"lblUAG&APMDetailsNote": {
+	 "desc": "You can access R drive & office desktop PC through UAG & APM Access" 
+	  }
+ },
+
+ 
+"remoteAcc_jp":{
+   "lblUAG&APMDtls": {
+	  "desc": "UAG & APM 詳細"  
+     },
+  
+  "lblRequestType": {
+      "desc": "申請区分"
+        },
+
+   "lblEnable": {
+       "desc": "有効"
+       },
+
+	"lblDisable": {
+	    "desc": "無効"
+	    },
+
+	"lblRsnforReqst": {
+	     "desc": "用途"
+	    },
+
+	"lblReason": {
+	    "desc": "用途"
+	     },
+
+	"lblbtnSave": {
+	    "desc": "保存"
+	     },
+
+	"lblbtnClear": {
+	     "desc": "クリア"
+	     },
+
+   "lblbtnClose": {
+       "desc": "閉じる"
+       },
+
+   "lblYes": {
+      "desc": "はい"
+     },
+
+  "lblbtnOk": {
+      "desc": "OK"
+      },
+
+ "lblUAG&APMDetailsNote": {
+      "desc": "Rドライブ 及び デスクトップPCにUAG & APMをかいして接続できます" 
+      }
+    },
+
+"pswdUnlk_en":{
+   "lblRequestType": {
+       "desc": "Request Type"
+        },
+   
+   "lblUnlckExistPaswrd": {
+        "desc": "Unlock Existing Password"
+         },
+	
+	"lblResetInitialPaswrd": {
+	    "desc": "Reset to Initial Password"
+	     },
+
+	"lblReqstDetls": {
+	     "desc": "Request Details"
+	      },
+
+	"lblSystemType": {
+	     "desc": "System Type"
+	      },
+
+	"lblLanID": {
+	     "desc": "Lan ID"
+	    },
+
+	"lblOtherSystem": {
+	      "desc": "Other System"
+	     },
+
+   "lblSystem": {
+       "desc": "System"
+       },
+
+	"lblAuthorizationDtls": {
+	     "desc": "Authorization Details"
+	      },
+
+	"lblReason": {
+	    "desc": "Reason"
+	     },
+
+	"lblbtnSave": {
+	    "desc": "Save"
+	     },
+
+	"lblbtnClear": {
+	     "desc": "Clear"
+	     },
+
+   "lblbtnClose": {
+       "desc": "Close"
+       },
+
+   "lblYes": {
+      "desc": "Yes"
+     },
+
+  "lblbtnOk": {
+      "desc": "Ok"
+      },
+
+  "lblUserID": {
+      "desc": "User ID"
+      }
+  },
+
+
+"pswdUnlk_jp":{
+   "lblRequestType": {
+       "desc": "申請区分"
+        },
+   
+   "lblUnlckExistPaswrd": {
+        "desc": "既存パスワードのロック解除"
+         },
+	
+	"lblResetInitialPaswrd": {
+	    "desc": "初回パスワードに戻す"
+	     },
+
+	"lblReqstDetls": {
+	     "desc": "申請詳細"
+	      },
+
+	"lblSystemType": {
+	     "desc": "システムタイプ"
+	      },
+
+	"lblLanID": {
+	     "desc": "Lan ID"
+	    },
+
+	"lblOtherSystem": {
+	      "desc": "その他システム"
+	     },
+
+   "lblSystem": {
+       "desc": "システム"
+       },
+
+	"lblAuthorizationDtls": {
+	     "desc": "権限詳細"
+	      },
+
+	"lblReason": {
+	    "desc": "用途"
+	     },
+
+	"lblbtnSave": {
+	    "desc": "保存"
+	     },
+
+	"lblbtnClear": {
+	     "desc": "クリア"
+	     },
+
+   "lblbtnClose": {
+       "desc": "閉じる"
+       },
+
+   "lblYes": {
+      "desc": "はい"
+     },
+
+  "lblbtnOk": {
+      "desc": "Ok"
+      },
+
+  "lblUserID": {
+      "desc": "ユーザーID"
+      }
+   },
+
+"systemaccess_en": {
+  "lblSysAccReqst": {
+      "desc": "System Access Request"   
+       },
+
+ "lblSysName": {
+    "desc": "System Name"
+    },
+
+"lblRoleName": {
+    "desc": "Role Name"
+   },
+
+"lblReqstDetls": {
+  "desc" : "Request Details"
+    },
+
+"lblDesiredDt": {
+   "desc" : "Desired Date"
+   },
+
+"lblPurpose": {
+  "desc" : "Purpose"
+   },
+
+"lblAuthorizationDtls": {
+    "desc" : "Authorization Details"
+    },
+
+"lblUserID": {
+   "desc" : "User ID"
+   },
+   
+"lblPasswrd": {
+   "desc" : "Password"   
+   },
+
+"lblPin": {
+   "desc" : "PIN"
+  },
+
+"lblAddInfo": {
+   "desc" : "Additional Information"
+   },
+
+"lblExistAccessDetls": {
+    "desc" : "Existing Access Details"
+   },
+
+"lblAppName": {
+   "desc" : "Application Name"
+   },
+
+"lblRole": {
+   "desc" : "Role"
+  },
+
+"lblCreatnDt": {
+   "desc": "Creation Date"
+ },
+
+"lblUserID": {
+   "desc": "User ID"
+   },
+
+"lblbtnSave": {
+  "desc": "Save"
+	},
+
+"lblbtnClear": {
+  "desc": "Clear"
+	  },
+ 
+"lblbtnClose": {
+   "desc": "Close"
+     },
+
+"lblYes": {
+   "desc": "Yes"
+   },
+
+"lblbtnOk": {
+   "desc": "Ok"
+    },
+
+"lblsave": {
+   "desc": "Do you want to save the data?"
+  }
+},
+
+
+"systemaccess_jp": {
+  "lblSysAccReqst": {
+      "desc": "業務アプリの申請"   
+       },
+
+ "lblSysName": {
+    "desc": "システム名"
+    },
+
+"lblRoleName": {
+    "desc": "ロール名"
+   },
+
+"lblReqstDetls": {
+  "desc" : "申請詳細"
+    },
+
+"lblDesiredDt": {
+   "desc" : "適用希望日"
+   },
+
+"lblPurpose": {
+  "desc" : "用途"
+   },
+
+"lblAuthorizationDtls": {
+    "desc" : "権限詳細"
+    },
+
+"lblUserID": {
+   "desc" : "ユーザーID"
+   },
+   
+"lblPasswrd": {
+   "desc" : "パスワード"   
+   },
+
+"lblPin": {
+   "desc" : "PIN"
+  },
+
+"lblAddInfo": {
+   "desc" : "追加情報"
+   },
+
+"lblExistAccessDetls": {
+    "desc" : "保有するアクセス詳細"
+   },
+
+"lblAppName": {
+   "desc" : "システム名"
+   },
+
+"lblRole": {
+   "desc" : "ロール名"
+  },
+
+"lblCreatnDt": {
+   "desc": "作成日"
+ },
+
+"lblbtnSave": {
+  "desc": "保存"
+	},
+
+"lblbtnClear": {
+  "desc": "クリア"
+	  },
+ 
+"lblbtnClose": {
+   "desc": "閉じる"
+     },
+
+"lblYes": {
+   "desc": "はい"
+   },
+
+"lblbtnOk": {
+   "desc": "OK"
+    },
+
+"lblsave": {
+   "desc": "データを保存しますか？"
+  }
+},
+
+
+"systemaccmod_en": {
+  "lblRequestType": {
+     "desc": "Request Type"
+      },
+
+"lblModify": {
+   "desc": "Modify"
+   },
+
+"lblDelete": {
+   "desc": "Delete"
+   },
+
+"lblAccessDetails": {
+   "desc": "Access Details"
+   },
+
+"lblSelSysAccess": {
+   "desc": "Select System Access"
+  },
+
+"lblSelSysName": {
+  "desc": "Select System Name"
+  },
+
+"lblAppName": {
+  "desc": "Application Name"
+  },
+
+"lblRoleName": {
+  "desc": "Role Name"
+  },
+
+"lblCreatnDt": {
+   "desc": "Creation Date"
+  },
+
+"lblUserID": {
+   "desc": "User ID"
+   },
+
+"lblReqstDetls": {
+   "desc": "Request Details"
+  },
+
+"lblApplication": {
+   "desc": "Application"
+  },
+
+"lblDesiredDt": {
+  "desc": "Desired Date"
+  },
+
+"lblCurrRole": {
+  "desc": "Current Role"
+ },
+
+"lblNewRole": {
+  "desc": "New Role"
+  },
+
+"lblPurpose": {
+  "desc": "Purpose" 
+   },
+
+"lblUserIDDtls": {
+   "desc": "User ID Details"
+  },
+
+"lblAddInfo": {
+   "desc": "Additional Information"
+  },
+
+"lblExistingSystemAccess": {
+   "desc": "Existing System Access"
+  },
+
+"lblRole": {
+   "desc": "Role"
+  },
+
+"lblbtnSave": {
+  "desc": "Save"
+	},
+
+"lblbtnClear": {
+  "desc": "Clear"
+	  },
+ 
+"lblbtnClose": {
+   "desc": "Close"
+     },
+
+"lblYes": {
+   "desc": "Yes"
+   },
+
+"lblbtnOk": {
+   "desc": "Ok"
+    }
+},
+
+"systemaccmod_jp": {
+  "lblRequestType": {
+     "desc": "申請区分"
+      },
+
+"lblModify": {
+   "desc": "更新"
+   },
+
+"lblDelete": {
+   "desc": "削除"
+   },
+
+"lblAccessDetails": {
+   "desc": "アクセス詳細"
+   },
+
+"lblSelSysAccess": {
+   "desc": "アクセス選択"
+  },
+
+"lblSelSysName": {
+  "desc": "システム名選択"
+  },
+
+"lblAppName": {
+  "desc": "システム名"
+  },
+
+"lblRoleName": {
+  "desc": "ロール名"
+  },
+
+"lblCreatnDt": {
+   "desc": "作成日"
+  },
+
+"lblUserID": {
+   "desc": "ユーザーID"
+   },
+
+"lblReqstDetls": {
+   "desc": "申請詳細"
+  },
+
+"lblApplication": {
+   "desc": "アプリケーション"
+  },
+
+"lblDesiredDt": {
+  "desc": "適用希望日"
+  },
+
+"lblCurrRole": {
+  "desc": "既存ロール"
+ },
+
+"lblNewRole": {
+  "desc": "新規ロール"
+  },
+
+"lblPurpose": {
+  "desc": "用途" 
+   },
+
+"lblUserIDDtls": {
+   "desc": "ユーザID詳細"
+  },
+
+"lblAddInfo": {
+   "desc": "追加情報"
+  },
+
+"lblExistingSystemAccess": {
+   "desc": "保有するアクセス"
+  },
+
+"lblRole": {
+   "desc": "ロール名"
+  },
+
+"lblbtnSave": {
+  "desc": "保存"
+	},
+
+"lblbtnClear": {
+  "desc": "クリア"
+	  },
+ 
+"lblbtnClose": {
+   "desc": "閉じる"
+     },
+
+"lblYes": {
+   "desc": "はい"
+   },
+
+"lblbtnOk": {
+   "desc": "OK"
+    }
+},
+
+"privacc_en": {
+  "lblSelPrivilacc": {
+     "desc": "Select Privilege account" 
+   },
+
+"lblReqstDetls": {
+    "desc": "Request Details"
+    },
+
+"lblPrimaryOwn": {
+   "desc": "Primary Owner"
+    },
+
+"lblPurpose": {
+  "desc": "Purpose"
+   },
+
+"lblotherdtl": {
+   "desc": "Other Details"
+   },
+
+"lblDispName": {
+  "desc": "Display Name"
+  },
+
+"lblPrivileges": {
+  "desc": "Privileges"
+  },
+
+"lblaccdtl": {
+  "desc" : "Account Details"
+  },
+
+"lblaccpswd": {
+  "desc" : "Account Password"
+  },
+
+"lblAccName": {
+  "desc" : "Account Name"
+   },
+
+"lblbtnSave": {
+  "desc": "Save"
+	},
+
+"lblbtnClear": {
+  "desc": "Clear"
+	  },
+ 
+"lblbtnClose": {
+   "desc": "Close"
+     },
+
+"lblYes": {
+   "desc": "Yes"
+   },
+
+"lblbtnOk": {
+   "desc": "Ok"
+    }
+},
+
+"privacc_jp": {
+"lblSelPrivilacc": {
+     "desc": "特殊アカウント選択" 
+   },
+
+"lblReqstDetls": {
+    "desc": "申請詳細"
+    },
+
+"lblPrimaryOwn": {
+   "desc": "主所有者"
+    },
+
+"lblPurpose": {
+  "desc": "用途"
+   },
+
+"lblotherdtl": {
+   "desc": "その他詳細"
+   },
+
+"lblDispName": {
+  "desc": "表示名"
+  },
+
+"lblPrivileges": {
+  "desc": "特殊権限"
+  },
+
+"lblaccdtl": {
+  "desc" : "アカウント詳細"
+  },
+
+"lblaccpswd": {
+  "desc" : "アカウントパスワード"
+  },
+
+"lblAccName": {
+  "desc" : "アカウント名"
+   },
+
+"lblbtnSave": {
+  "desc": "保存"
+	},
+
+"lblbtnClear": {
+  "desc": "クリア"
+	  },
+ 
+"lblbtnClose": {
+   "desc": "閉じる"
+     },
+
+"lblYes": {
+   "desc": "はい"
+   },
+
+"lblbtnOk": {
+   "desc": "OK"
+    }
+},
+
+
+"privaccmod_en": {
+  "lblPrivAccDtl": {
+     "desc": "Privilege account Details"
+      },
+
+"lblSelPrivilacc": {
+     "desc": "Select Privilege account" 
+   },
+
+"lblRequestDetails": {
+    "desc": "Request Details"
+   },
+
+"lblRequestType": {
+  "desc": "Request Type"
+  },
+
+"lblModify": {
+  "desc": "Modify"
+  },
+
+"lblDelete": {
+  "desc": "Delete"
+   },
+
+"lblAccName": {
+  "desc": "Account Name"
+   },
+
+"lblexistprimown": {
+   "desc": "Existing Primary Owner"
+  },
+
+"lblnewprimown": {
+  "desc": "New Primary Owner"
+   },
+
+"lblPurpose": {
+  "desc": "Purpose"
+  },
+
+"lblotherdtl": {
+  "desc": "Other Details"
+  },
+
+"lblDispName": {
+  "desc": "Display Name"
+  },
+
+"lblNewDispName": {
+  "desc": "New Display Name"
+   },
+
+"lblaccdtl": {
+  "desc": "Account Details"
+  },
+
+"lblaccpswd": {
+  "desc": "Account Password"
+  },
+
+"lblPrivileges": {
+  "desc": "Privileges"
+  },
+
+"lblbtnSave": {
+  "desc": "Save"
+	},
+
+"lblbtnClear": {
+  "desc": "Clear"
+	  },
+ 
+"lblbtnClose": {
+   "desc": "Close"
+     },
+
+"lblYes": {
+   "desc": "Yes"
+   },
+
+"lblbtnOk": {
+   "desc": "Ok"
+    }
+},
+
+
+"privaccmod_jp": {
+  "lblPrivAccDtl": {
+     "desc": "特殊アカウント詳細"
+      },
+
+"lblSelPrivilacc": {
+     "desc": "特殊アカウント選択" 
+   },
+
+"lblRequestDetails": {
+    "desc": "申請詳細"
+   },
+
+"lblRequestType": {
+  "desc": "申請区分"
+  },
+
+"lblModify": {
+  "desc": "更新"
+  },
+
+"lblDelete": {
+  "desc": "削除"
+   },
+
+"lblAccName": {
+  "desc": "アカウント名"
+   },
+
+"lblexistprimown": {
+   "desc": "既存主所有者"
+  },
+
+"lblnewprimown": {
+  "desc": "新主所有者"
+   },
+
+"lblPurpose": {
+  "desc": "用途"
+  },
+
+"lblotherdtl": {
+  "desc": "その他詳細"
+  },
+
+"lblDispName": {
+  "desc": "表示名"
+  },
+
+"lblNewDispName": {
+  "desc": "新表示名"
+   },
+
+"lblaccdtl": {
+  "desc": "アカウント詳細"
+  },
+
+"lblaccpswd": {
+  "desc": "アカウントパスワード"
+  },
+
+"lblPrivileges": {
+  "desc": "特殊権限"
+  },
+
+"lblbtnSave": {
+  "desc": "保存"
+	},
+
+"lblbtnClear": {
+  "desc": "クリア"
+	  },
+ 
+"lblbtnClose": {
+   "desc": "閉じる"
+     },
+
+"lblYes": {
+   "desc": "はい"
+   },
+
+"lblbtnOk": {
+   "desc": "OK"
+    } 
+  }
+}
+
+
+
+
+
+
+
+

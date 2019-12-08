@@ -1,0 +1,107 @@
+@import "~@angular/material/prebuilt-themes/pink-bluegrey.css";
+@import "~@angular/material/prebuilt-themes/purple-green.css";
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import url('../node_modules/primeflex/primeflex.css');
+@import url('../node_modules/angular-tree-component/dist/angular-tree-component.css');
+@import url('../node_modules/bootstrap/dist/css/bootstrap.css');
+@import url('../node_modules/font-awesome/css/font-awesome.css');
+@import url('@fortawesome/fontawesome-free/css/fontawesome.css');
+@import url('@fortawesome/fontawesome-free/css/all.css');
+@import url('@fortawesome/fontawesome-free/css/brands.css');
+@import url('../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css');
+@import url('../node_modules/ag-grid/dist/styles/ag-grid.css');
+@import url('../node_modules/ag-grid/dist/styles/ag-theme-material.css');
+@import url('../node_modules/ag-grid/dist/styles/ag-theme-balham.css');
+/*@import url('../node_modules/primeng/resources/themes/nova-light/theme.css');*/
+@import url('../node_modules/primeng/resources/themes/omega/theme.css');
+/*@import url('../node_modules/primeng/resources/primeng.min.css');*/
+@font-face {
+    font-family: url('../node_modules/font-awesome/fonts/fontawesome-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../node_modules/font-awesome/fonts/fontawesome-webfont.woff') format('woff')
+}
+
+.mx-width-100{
+    max-width:100%;
+}
+
+.text-color {
+    color: white !important;
+    margin-left:5px;
+}
+
+.treeNodeDisable {
+    pointer-events: none;
+    cursor: not-allowed;
+}
+
+h1 {
+    color: #369;
+    font-family: Century;
+    font-size: 250%;
+}
+
+body {
+    font-family: "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", "Meiryo", "MS PGothic", sans-serif !important;
+    font-size: 12px;
+    margin: 0;
+}
+
+.basic-container {
+    padding: 30px;
+}
+
+.version-info {
+    font-size: 8pt;
+    float: right;
+}
+
+.headerGridCss {
+    color: black;
+    font-size: x-small;
+    top: -8px;
+}
+
+.rowcss {
+    height: 27px !important;
+    background-color: #146EB4;
+    color: white;
+    font-size: 11px;
+}
+
+.rowcss2 {
+    top: 24px !important;
+}
+
+.headerRow2 {
+    min-height: 49px !important;
+    height: 49px !important;
+}
+
+.viewport {
+    height: 44px !important;
+}
+
+.heightrow {
+    height: 23px !important;
+}
+
+.heightrowNext {
+    height: 23px !important;
+    transform: translateY(23px) !important;
+}
+
+.required:after {
+    content: "*";
+    color: red;
+    font-weight: 900
+}
+
+.form-control {
+    font-size: 11.5px !important;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}

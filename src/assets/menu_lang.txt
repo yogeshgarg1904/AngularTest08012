@@ -1,0 +1,132 @@
+{
+	"menu_en": {
+		"DashBoard": {
+			"desc": "DashBoard"
+		},
+		"Request Access": {
+			"desc": "Request Access"
+		},
+		"Request Verification": {
+			"desc": "Request Verification"
+		},
+		"Pending Approvals": {
+			"desc": "Pending Approvals"
+		},
+		"Track Action": {
+			"desc": "Track Action"
+		},
+		"Track Request": {
+			"desc": "Track Request"
+		},
+		"My Approval": {
+			"desc": "My Approval"
+		},
+		"My Execution": {
+			"desc": "My Execution"
+		},
+		"My Approved": {
+			"desc": "My Approved"
+		},
+		"My Rejected": {
+			"desc": "My Rejected"
+		},
+		"My Withdraw": {
+			"desc": "My Withdraw"
+		},
+		"My Executed": {
+			"desc": "My Executed"
+		},
+		"My Pushback": {
+			"desc": "My Pushback"
+		},
+		"Maintenance": {
+			"desc": "Maintenance"
+		},
+		"Masters": {
+			"desc": "Masters"
+		},
+		"Reports": {
+			"desc": "Reports"
+		},
+		"Setting": {
+			"desc": "Setting"
+		},
+		
+		"Mailbox": {
+			"desc": "Mailbox"
+		},
+		"Help": {
+			"desc": "Help"
+		}
+	},
+	"menu_jp": {
+		"DashBoard": {
+			"desc": "DashBoard"
+		},
+		"Request Access": {
+			"desc": "Request Access"
+		},
+		"Request Verification": {
+			"desc": "Request Verification"
+		},
+		"Pending Approvals": {
+			"desc": "Pending Approvals"
+		},
+		"Track Action": {
+			"desc": "Track Action"
+		},
+		"Track Request": {
+			"desc": "Track Request"
+		},
+		"My Approval": {
+			"desc": "My Approval"
+		},
+		"My Execution": {
+			"desc": "My Execution"
+		},
+		"My Approved": {
+			"desc": "My Approved"
+		},
+		"My Rejected": {
+			"desc": "My Rejected"
+		},
+		"My Withdraw": {
+			"desc": "My Withdraw"
+		},
+		"My Executed": {
+			"desc": "My Executed"
+		},
+		"My Pushback": {
+			"desc": "My Pushback"
+		},
+		"Maintenance": {
+			"desc": "Maintenance"
+		},
+		"Masters": {
+			"desc": "Masters"
+		},
+		"Reports": {
+			"desc": "Reports"
+		},
+		"Setting": {
+			"desc": "Setting"
+		},
+		"Mailbox": {
+			"desc": "Mailbox"
+		},
+		"Help": {
+			"desc": "Help"
+		}
+	},
+	"dialog_lan_en": {
+		"lblApprove": "Are you sure you want to Approve the request ?",
+		"lblPushback": "Are you sure you want to Pushback the request ?",
+		"lblDiscard": "Are you sure you want to Discard the request ?"
+	},
+	"dialog_lan_jp": {
+		"lblApprove": "Are you sure you want to Approve the request ?",
+		"lblPushback": "Are you sure you want to Pushback the request ?",
+    "lblDiscard": "Are you sure you want to Discard the request ?"
+      
+	}
+}
